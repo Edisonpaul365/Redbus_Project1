@@ -1,0 +1,389 @@
+bus_route_name,bus_name,bus_type,departure_time,duration,reaching_time,star_rating,price,seat_availability
+Patiala to Delhi,PEPSU (Punjab) - 67142,Volvo AC Seater (2+2),2024-07-18 16:00:00,05h 25m,2024-07-18 21:25:00,4.2,692,"40 Seats available
+20 Window"
+Patiala to Delhi,PEPSU (Punjab) - 66687,Volvo AC Seater (2+2),2024-07-18 18:10:00,05h 25m,2024-07-18 23:35:00,3.8,692,"37 Seats available
+18 Window"
+Patiala to Delhi,PEPSU (Punjab) - 67104,AC Seater Hvac 2+2,2024-07-18 22:30:00,05h 01m,2024-07-18 03:31:00,3.0,440,"38 Seats available
+19 Window"
+Delhi to Patiala,PEPSU (Punjab) - 67140,AC Seater Hvac 2+2,2024-07-18 16:30:00,05h 30m,2024-07-18 22:00:00,3.2,440,"41 Seats available
+20 Window"
+Delhi to Patiala,PEPSU (Punjab) - 66667,Volvo AC Seater (2+2),2024-07-18 17:30:00,05h 00m,2024-07-18 22:30:00,4.2,692,"36 Seats available
+16 Window"
+Delhi to Patiala,PEPSU (Punjab) - 67103,AC Seater Hvac 2+2,2024-07-18 22:31:00,05h 29m,2024-07-18 04:00:00,3.3,440,"37 Seats available
+17 Window"
+Ludhiana to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 22:27:00,06h 33m,2024-07-18 05:00:00,4.6,400,"25 Seats available
+6 Single"
+Ludhiana to Delhi,Laxmi holidays,VE A/C Sleeper (2+1),2024-07-18 23:55:00,06h 50m,2024-07-18 06:45:00,4.4,513,29 Seats available
+Ludhiana to Delhi,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 22:50:00,06h 55m,2024-07-18 05:45:00,4.3,484,"15 Seats available
+4 Single"
+Ludhiana to Delhi,AdArmaan Tour & Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:50:00,07h 10m,2024-07-18 06:00:00,3.5,524,"37 Seats available
+5 Single"
+Ludhiana to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:45:00,07h 35m,2024-07-18 06:20:00,4.6,493,"18 Seats available
+3 Single"
+Ludhiana to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:55:00,06h 10m,2024-07-18 06:05:00,4.4,362,"25 Seats available
+3 Single"
+Ludhiana to Delhi,NueGo,Electric A/C Seater (2+2),2024-07-18 23:15:00,05h 50m,2024-07-18 05:05:00,3.7,361,34 Seats available
+Ludhiana to Delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:50:00,06h 50m,2024-07-18 06:40:00,4.7,449,26 Seats available
+Ludhiana to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 23:40:00,06h 20m,2024-07-18 06:00:00,4.6,453,"25 Seats available
+8 Single"
+Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 23:25:00,05h 55m,2024-07-18 05:20:00,4.2,499,"18 Seats available
+9 Window"
+Ludhiana to Delhi,New Navyug Travels,A/C Sleeper (2+1),2024-07-18 23:00:00,06h 30m,2024-07-18 05:30:00,3.8,675,"25 Seats available
+6 Single"
+Ludhiana to Delhi,NueGo,Electric A/C Seater (2+2),2024-07-18 18:00:00,05h 50m,2024-07-18 23:50:00,3.5,361,30 Seats available
+Ludhiana to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-07-18 23:58:00,06h 22m,2024-07-18 06:20:00,3.2,599,"27 Seats available
+13 Window"
+Ludhiana to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 23:45:00,06h 15m,2024-07-18 06:00:00,3.7,449,"22 Seats available
+6 Single"
+Ludhiana to Delhi,Classic Travels,A/C Seater / Sleeper (2+2),2024-07-18 23:55:00,07h 00m,2024-07-18 06:55:00,2.6,389,"37 Seats available
+19 Window"
+Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 23:30:00,05h 50m,2024-07-18 05:20:00,3.8,499,"33 Seats available
+16 Window"
+Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 23:57:00,06h 53m,2024-07-18 06:50:00,3.7,499,"34 Seats available
+17 Window"
+Ludhiana to Delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:55:00,05h 20m,2024-07-18 05:15:00,2.7,500,"29 Seats available
+4 Single"
+Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 23:59:00,06h 31m,2024-07-18 06:30:00,2.4,499,"22 Seats available
+11 Window"
+Ludhiana to Delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-07-18 23:40:00,05h 30m,2024-07-18 05:10:00,2.7,600,"40 Seats available
+20 Window"
+Delhi to Ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,05h 54m,2024-07-18 05:24:00,4.6,400,"22 Seats available
+5 Single"
+Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,07h 30m,2024-07-18 05:15:00,4.7,558,15 Seats available
+Delhi to Ludhiana,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:20:00,06h 40m,2024-07-18 05:00:00,4.5,399,"29 Seats available
+3 Single"
+Delhi to Ludhiana,AdGolden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 22:58:00,06h 22m,2024-07-18 05:20:00,4.2,499,"28 Seats available
+14 Window"
+Delhi to Ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:40:00,07h 00m,2024-07-18 06:40:00,4.3,513,30 Seats available
+Delhi to Ludhiana,Laxmi holidays,VE A/C Sleeper (2+1),2024-07-18 23:00:00,07h 00m,2024-07-18 06:00:00,4.3,570,23 Seats available
+Delhi to Ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 20:25:00,06h 40m,2024-07-18 03:05:00,4.7,640,20 Seats available
+Delhi to Ludhiana,AdGolden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-07-18 22:50:00,06h 16m,2024-07-18 05:06:00,4.1,599,"28 Seats available
+13 Window"
+Delhi to Ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:30:00,06h 40m,2024-07-18 06:10:00,4.3,570,22 Seats available
+Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 20:15:00,08h 30m,2024-07-18 04:45:00,4.2,400,15 Seats available
+Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:45:00,07h 20m,2024-07-18 06:05:00,4.6,398,25 Seats available
+Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 20:45:00,07h 35m,2024-07-18 04:20:00,4.8,481,"19 Seats available
+4 Single"
+Delhi to Ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,06h 28m,2024-07-18 04:28:00,4.1,400,"24 Seats available
+6 Single"
+Delhi to Ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:30:00,07h 20m,2024-07-18 04:50:00,4.4,421,"21 Seats available
+5 Single"
+Delhi to Ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-07-18 22:50:00,06h 35m,2024-07-18 05:25:00,4.2,360,"28 Seats available
+13 Window"
+Phagwara to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 23:20:00,07h 10m,2024-07-18 06:30:00,4.6,430,20 Seats available
+Phagwara to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:20:00,07h 25m,2024-07-18 04:45:00,4.4,442,"26 Seats available
+3 Single"
+Phagwara to Delhi,Laxmi holidays,VE A/C Sleeper (2+1),2024-07-18 23:10:00,07h 35m,2024-07-18 06:45:00,4.6,570,29 Seats available
+Phagwara to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 21:37:00,07h 23m,2024-07-18 05:00:00,4.8,400,"25 Seats available
+6 Single"
+Phagwara to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:40:00,07h 40m,2024-07-18 06:20:00,4.3,399,37 Seats available
+Phagwara to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-07-18 23:40:00,06h 40m,2024-07-18 06:20:00,4.1,599,"26 Seats available
+13 Window"
+Phagwara to Delhi,New Navyug Travels,A/C Sleeper (2+1),2024-07-18 22:00:00,07h 30m,2024-07-18 05:30:00,4.5,675,"25 Seats available
+6 Single"
+Phagwara to Delhi,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 21:55:00,07h 50m,2024-07-18 05:45:00,4.6,484,"15 Seats available
+4 Single"
+Phagwara to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:35:00,07h 25m,2024-07-18 07:00:00,4.5,570,35 Seats available
+Phagwara to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:35:00,07h 25m,2024-07-18 06:00:00,4.8,449,"22 Seats available
+6 Single"
+Phagwara to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:55:00,07h 10m,2024-07-18 06:05:00,4.2,343,"25 Seats available
+3 Single"
+Phagwara to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:55:00,08h 25m,2024-07-18 06:20:00,4.2,493,"18 Seats available
+3 Single"
+Phagwara to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 22:40:00,06h 40m,2024-07-18 05:20:00,3.9,499,"33 Seats available
+16 Window"
+Phagwara to Delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-07-18 23:55:00,06h 00m,2024-07-18 05:55:00,3.8,508,35 Seats available
+Phagwara to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:45:00,07h 00m,2024-07-18 06:45:00,3.6,366,"26 Seats available
+7 Single"
+Jalandhar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 23:10:00,07h 20m,2024-07-18 06:30:00,4.6,430,20 Seats available
+Jalandhar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 23:26:00,07h 02m,2024-07-18 06:28:00,4.5,400,"15 Seats available
+7 Single"
+Jalandhar to Delhi,Laxmi holidays,VE A/C Sleeper (2+1),2024-07-18 23:05:00,07h 40m,2024-07-18 06:45:00,4.5,570,29 Seats available
+Jalandhar to Delhi,AdNew Navyug Travels,A/C Sleeper (2+1),2024-07-18 21:50:00,07h 40m,2024-07-18 05:30:00,4.1,675,"25 Seats available
+6 Single"
+Jalandhar to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:05:00,07h 40m,2024-07-18 04:45:00,4.4,442,"26 Seats available
+3 Single"
+Jalandhar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 21:11:00,07h 49m,2024-07-18 05:00:00,4.3,400,"25 Seats available
+6 Single"
+Jalandhar to Delhi,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 21:30:00,08h 15m,2024-07-18 05:45:00,4.4,484,"16 Seats available
+5 Single"
+Jalandhar to Delhi,AdGolden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 22:30:00,06h 50m,2024-07-18 05:20:00,4.0,499,"25 Seats available
+12 Window"
+Jalandhar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,07h 30m,2024-07-18 06:00:00,4.3,453,"25 Seats available
+8 Single"
+Jalandhar to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-07-18 23:30:00,06h 50m,2024-07-18 06:20:00,4.3,599,"27 Seats available
+13 Window"
+Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:20:00,07h 20m,2024-07-18 05:40:00,4.6,399,"29 Seats available
+3 Single"
+Delhi to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:45:00,08h 25m,2024-07-18 07:10:00,4.6,398,25 Seats available
+Delhi to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,08h 45m,2024-07-18 06:30:00,4.6,558,15 Seats available
+Delhi to Jalandhar,AdNew Navyug Travels,A/C Sleeper (2+1),2024-07-18 22:45:00,07h 25m,2024-07-18 06:10:00,4.1,625,"22 Seats available
+4 Single"
+Delhi to Jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,06h 59m,2024-07-18 06:29:00,4.5,400,"22 Seats available
+5 Single"
+Delhi to Jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,07h 42m,2024-07-18 05:42:00,4.4,400,"24 Seats available
+6 Single"
+Delhi to Jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:30:00,08h 25m,2024-07-18 05:55:00,4.5,421,"21 Seats available
+5 Single"
+Delhi to Jalandhar,AdGolden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-07-18 22:50:00,07h 27m,2024-07-18 06:17:00,4.2,599,"28 Seats available
+13 Window"
+Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:00:00,08h 00m,2024-07-18 06:00:00,4.4,399,34 Seats available
+Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:40:00,07h 50m,2024-07-18 07:30:00,4.3,570,30 Seats available
+Delhi to Jalandhar,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 22:30:00,08h 40m,2024-07-18 07:10:00,4.3,516,"17 Seats available
+7 Single"
+Delhi to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 20:15:00,09h 40m,2024-07-18 05:55:00,4.3,400,16 Seats available
+Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:30:00,07h 40m,2024-07-18 07:10:00,4.2,570,22 Seats available
+Delhi to Jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 20:25:00,07h 55m,2024-07-18 04:20:00,4.3,640,20 Seats available
+Delhi to Jalandhar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-07-18 22:50:00,07h 30m,2024-07-18 06:20:00,4.5,348,"29 Seats available
+14 Window"
+Patiala to Delhi Airport,PEPSU (Punjab) - 67142,Volvo AC Seater (2+2),2024-07-18 16:00:00,06h 40m,2024-07-18 22:40:00,4.0,807,"40 Seats available
+20 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 16:00:00,07h 00m,2024-07-18 23:00:00,4.4,2500,"51 Seats available
+25 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 18:00:00,07h 00m,2024-07-18 01:00:00,4.4,2500,"44 Seats available
+22 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 20:00:00,07h 00m,2024-07-18 03:00:00,4.4,2500,"51 Seats available
+25 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 16:00:00,07h 00m,2024-07-18 23:00:00,4.4,3000,"42 Seats available
+28 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 14:48:00,06h 20m,2024-07-18 21:08:00,4.4,2500,"44 Seats available
+22 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 18:30:00,06h 30m,2024-07-18 01:00:00,4.4,3000,"44 Seats available
+22 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 16:40:00,08h 30m,2024-07-18 01:10:00,4.4,3000,"42 Seats available
+28 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 16:00:00,09h 00m,2024-07-18 01:00:00,4.4,3000,"41 Seats available
+20 Window"
+Patiala to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 14:30:00,08h 30m,2024-07-18 23:00:00,4.4,3300,"44 Seats available
+22 Window"
+Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 18:00:00,11h 00m,2024-07-18 05:00:00,4.1,3300,"29 Seats available
+10 Window"
+Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 16:00:00,11h 00m,2024-07-18 03:00:00,4.4,3300,"20 Seats available
+6 Window"
+Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 20:00:00,11h 00m,2024-07-18 07:00:00,4.4,3850,"38 Seats available
+25 Window"
+Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:55:00,11h 10m,2024-07-18 11:05:00,4.4,3000,"30 Seats available
+10 Single"
+Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:00:00,11h 00m,2024-07-18 10:00:00,4.4,3300,"40 Seats available
+19 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:29:00,07h 31m,2024-07-18 07:00:00,4.4,2500,"44 Seats available
+22 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 15:29:00,07h 31m,2024-07-18 23:00:00,4.4,3000,"42 Seats available
+28 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:29:00,09h 31m,2024-07-18 09:00:00,4.4,2500,"44 Seats available
+22 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 17:29:00,09h 31m,2024-07-18 03:00:00,4.4,3300,"20 Seats available
+5 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 21:29:00,09h 31m,2024-07-18 07:00:00,4.4,3850,"38 Seats available
+25 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 19:29:00,09h 31m,2024-07-18 05:00:00,4.4,3300,"45 Seats available
+19 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 15:39:00,09h 31m,2024-07-18 01:10:00,4.4,3000,"42 Seats available
+28 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 15:29:00,09h 31m,2024-07-18 01:00:00,4.4,3850,"19 Seats available
+10 Window"
+Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 15:29:00,09h 31m,2024-07-18 01:00:00,4.4,3850,"42 Seats available
+28 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 14:35:00,10h 25m,2024-07-18 01:00:00,4.4,3850,"42 Seats available
+28 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:35:00,10h 25m,2024-07-18 10:00:00,4.4,3300,"44 Seats available
+22 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 20:35:00,08h 25m,2024-07-18 05:00:00,4.4,2500,"28 Seats available
+10 Single"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 22:35:00,08h 25m,2024-07-18 07:00:00,4.4,2500,"44 Seats available
+22 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 14:35:00,08h 25m,2024-07-18 23:00:00,4.4,3000,"42 Seats available
+28 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 22:35:00,10h 25m,2024-07-18 09:00:00,4.4,2500,"44 Seats available
+22 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 16:35:00,10h 25m,2024-07-18 03:00:00,4.4,3000,"44 Seats available
+22 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 18:35:00,08h 25m,2024-07-18 03:00:00,4.4,2500,"51 Seats available
+25 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 20:35:00,10h 25m,2024-07-18 07:00:00,4.4,3000,"30 Seats available
+10 Single"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 18:35:00,10h 25m,2024-07-18 05:00:00,4.4,3300,"44 Seats available
+18 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 14:45:00,10h 25m,2024-07-18 01:10:00,4.4,3000,"42 Seats available
+28 Window"
+Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 14:35:00,10h 25m,2024-07-18 01:00:00,4.4,3000,"41 Seats available
+20 Window"
+Delhi Airport to Ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 17:20:00,09h 45m,2024-07-18 03:05:00,4.3,920,31 Seats available
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 19:30:00,10h 15m,2024-07-18 05:45:00,4.4,3300,"51 Seats available
+25 Window"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 22:00:00,10h 15m,2024-07-18 08:15:00,4.4,3850,"41 Seats available
+27 Window"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,10h 15m,2024-07-18 01:45:00,4.4,3000,"30 Seats available
+10 Single"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 16:30:00,10h 15m,2024-07-18 02:45:00,4.4,3300,"51 Seats available
+25 Window"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:30:00,10h 15m,2024-07-18 09:45:00,4.4,3300,"44 Seats available
+22 Window"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,07h 15m,2024-07-18 22:45:00,4.4,2500,"51 Seats available
+25 Window"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:30:00,07h 15m,2024-07-18 06:45:00,4.4,2500,"44 Seats available
+22 Window"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:30:00,07h 30m,2024-07-18 07:00:00,4.4,2500,"44 Seats available
+22 Window"
+Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,10h 15m,2024-07-18 01:45:00,4.4,2500,"51 Seats available
+25 Window"
+Delhi Airport to Ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-07-18 19:50:00,09h 35m,2024-07-18 05:25:00,4.3,777,"31 Seats available
+15 Window"
+Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:20:00,07h 00m,2024-07-18 05:20:00,4.5,399,"29 Seats available
+3 Single"
+Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:00:00,07h 50m,2024-07-18 05:50:00,4.4,399,34 Seats available
+Delhi to Phagwara,New Navyug Travels,A/C Sleeper (2+1),2024-07-18 22:45:00,06h 30m,2024-07-18 05:15:00,4.1,625,"23 Seats available
+5 Single"
+Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:40:00,07h 35m,2024-07-18 07:15:00,4.3,570,30 Seats available
+Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 20:15:00,09h 05m,2024-07-18 05:20:00,4.9,383,16 Seats available
+Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:30:00,07h 10m,2024-07-18 06:40:00,4.7,570,22 Seats available
+Delhi to Phagwara,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 20:25:00,07h 30m,2024-07-18 03:55:00,4.7,552,30 Seats available
+Delhi to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 22:58:00,06h 42m,2024-07-18 05:40:00,3.7,499,"28 Seats available
+14 Window"
+Delhi to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:30:00,07h 55m,2024-07-18 05:25:00,4.8,399,"21 Seats available
+5 Single"
+Delhi to Phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,07h 04m,2024-07-18 05:04:00,4.6,400,"24 Seats available
+6 Single"
+Delhi to Phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,06h 30m,2024-07-18 06:00:00,4.2,400,"22 Seats available
+5 Single"
+Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:45:00,07h 55m,2024-07-18 06:40:00,4.7,378,24 Seats available
+Delhi to Phagwara,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-07-18 22:50:00,07h 05m,2024-07-18 05:55:00,4.3,599,"28 Seats available
+13 Window"
+Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 20:45:00,08h 05m,2024-07-18 04:50:00,4.6,569,"17 Seats available
+4 Single"
+Delhi to Phagwara,Ram Dalal Holidays,A/C Seater/Sleeper (2+1),2024-07-18 18:30:00,07h 10m,2024-07-18 01:40:00,4.9,495,16 Seats available
+Delhi to Phagwara,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 22:30:00,08h 15m,2024-07-18 06:45:00,3.4,489,"17 Seats available
+7 Single"
+Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,08h 10m,2024-07-18 05:55:00,4.4,558,14 Seats available
+Delhi to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:15:00,08h 15m,2024-07-18 06:30:00,3.5,478,"19 Seats available
+7 Single"
+Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:30:00,09h 00m,2024-07-18 06:30:00,4.1,449,"25 Seats available
+6 Single"
+Delhi to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),2024-07-18 22:55:00,06h 55m,2024-07-18 05:50:00,3.1,499,"30 Seats available
+15 Window"
+Delhi to Amritsar,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),2024-07-18 21:50:00,10h 30m,2024-07-18 08:20:00,3.8,1216,"34 Seats available
+15 Window"
+Delhi to Amritsar,RSRTC - 156675,Express Non AC Seater 2+3,2024-07-18 22:30:00,10h 00m,2024-07-18 08:30:00,2.9,548,"40 Seats available
+14 Window"
+Delhi to Amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,10h 15m,2024-07-18 08:00:00,4.6,558,14 Seats available
+Delhi to Amritsar,AdZingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:35:00,10h 15m,2024-07-18 08:50:00,4.6,424,18 Seats available
+Delhi to Amritsar,R S YADAV SMART BUS PRIVATE LIMITED,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 22:40:00,08h 30m,2024-07-18 07:10:00,4.5,499,"16 Seats available
+2 Single"
+Delhi to Amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 23:58:00,08h 27m,2024-07-18 08:25:00,4.5,398,24 Seats available
+Delhi to Amritsar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 22:33:00,08h 31m,2024-07-18 07:04:00,4.4,400,"23 Seats available
+5 Single"
+Delhi to Amritsar,AdIntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:30:00,09h 10m,2024-07-18 06:40:00,4.3,569,"17 Seats available
+4 Single"
+Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:40:00,08h 25m,2024-07-18 07:05:00,4.3,380,"29 Seats available
+3 Single"
+Delhi to Amritsar,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 23:59:00,08h 06m,2024-07-18 08:05:00,4.4,400,"22 Seats available
+5 Single"
+Delhi to Amritsar,Laxmi holidays,VE A/C Sleeper (2+1),2024-07-18 23:20:00,08h 55m,2024-07-18 08:15:00,4.4,570,23 Seats available
+Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:50:00,08h 55m,2024-07-18 08:45:00,4.3,570,22 Seats available
+Delhi to Amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,09h 15m,2024-07-18 07:15:00,4.4,383,16 Seats available
+Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:20:00,08h 55m,2024-07-18 07:15:00,4.2,380,34 Seats available
+Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:55:00,09h 05m,2024-07-18 09:00:00,4.2,570,29 Seats available
+Amritsar to Delhi,PEPSU (Punjab) - 67150,Volvo AC Seater (2+2),2024-07-18 22:00:00,10h 42m,2024-07-18 08:42:00,4.2,1216,"37 Seats available
+18 Window"
+Amritsar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 22:11:00,08h 17m,2024-07-18 06:28:00,4.5,400,"14 Seats available
+6 Single"
+Amritsar to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),2024-07-18 22:30:00,09h 00m,2024-07-18 07:30:00,4.4,570,14 Seats available
+Amritsar to Delhi,AdMuskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-07-18 22:15:00,07h 40m,2024-07-18 05:55:00,4.4,508,35 Seats available
+Amritsar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 21:30:00,09h 00m,2024-07-18 06:30:00,4.5,460,20 Seats available
+Amritsar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 23:00:00,08h 00m,2024-07-18 07:00:00,4.5,375,22 Seats available
+Amritsar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,08h 15m,2024-07-18 06:45:00,4.5,336,22 Seats available
+Amritsar to Delhi,AdGolden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),2024-07-18 22:15:00,08h 05m,2024-07-18 06:20:00,4.2,599,"27 Seats available
+13 Window"
+Amritsar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),2024-07-18 19:56:00,09h 04m,2024-07-18 05:00:00,4.4,400,"25 Seats available
+6 Single"
+Amritsar to Delhi,R S YADAV SMART BUS PRIVATE LIMITED,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 21:25:00,08h 40m,2024-07-18 06:05:00,4.4,499,"12 Seats available
+4 Single"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 14:30:00,09h 00m,2024-07-18 23:30:00,4.4,3000,"30 Seats available
+10 Single"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,09h 00m,2024-07-18 00:30:00,4.4,3300,"51 Seats available
+25 Window"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,06h 00m,2024-07-18 21:30:00,4.4,2500,"51 Seats available
+25 Window"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,09h 00m,2024-07-18 00:30:00,4.4,2500,"51 Seats available
+25 Window"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 16:30:00,09h 00m,2024-07-18 01:30:00,4.4,3300,"51 Seats available
+25 Window"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 17:00:00,09h 00m,2024-07-18 02:00:00,4.4,2500,"51 Seats available
+25 Window"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 19:30:00,09h 00m,2024-07-18 04:30:00,4.4,2500,"51 Seats available
+25 Window"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 22:00:00,09h 00m,2024-07-18 07:00:00,4.4,3000,"42 Seats available
+28 Window"
+Delhi Airport to Patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:30:00,09h 00m,2024-07-18 08:30:00,4.4,3300,"44 Seats available
+22 Window"
+Amritsar to Delhi Airport,PEPSU (Punjab) - 67150,Volvo AC Seater (2+2),2024-07-18 22:00:00,11h 22m,2024-07-18 09:22:00,3.8,1340,"38 Seats available
+19 Window"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 18:00:00,13h 00m,2024-07-18 07:00:00,4.4,3850,"38 Seats available
+25 Window"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 16:00:00,13h 00m,2024-07-18 05:00:00,4.4,3300,"44 Seats available
+18 Window"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 21:55:00,13h 10m,2024-07-18 11:05:00,4.4,3000,"30 Seats available
+10 Single"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 21:00:00,13h 00m,2024-07-18 10:00:00,4.4,3300,"44 Seats available
+22 Window"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 18:00:00,11h 00m,2024-07-18 05:00:00,4.4,2500,"28 Seats available
+10 Single"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 20:00:00,11h 00m,2024-07-18 07:00:00,4.4,2500,"44 Seats available
+22 Window"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 21:55:00,11h 00m,2024-07-18 08:55:00,4.4,2500,"30 Seats available
+10 Single"
+Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 20:00:00,13h 00m,2024-07-18 09:00:00,4.4,2500,"44 Seats available
+22 Window"
+Kapurthala to Delhi,Oops! No buses found.,,,,,,,
+Delhi Airport to Jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 17:20:00,11h 00m,2024-07-18 04:20:00,4.3,921,23 Seats available
+Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 19:30:00,11h 45m,2024-07-18 07:15:00,4.4,3300,"51 Seats available
+25 Window"
+Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),2024-07-18 22:00:00,11h 45m,2024-07-18 09:45:00,4.4,3000,"42 Seats available
+28 Window"
+Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,11h 45m,2024-07-18 03:15:00,4.4,3000,"30 Seats available
+10 Single"
+Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,11h 45m,2024-07-18 03:15:00,4.4,3300,"51 Seats available
+25 Window"
+Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 16:30:00,11h 45m,2024-07-18 04:15:00,4.4,3300,"51 Seats available
+25 Window"
+Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 23:30:00,11h 45m,2024-07-18 11:15:00,4.4,3300,"44 Seats available
+22 Window"
+Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,11h 45m,2024-07-18 03:15:00,4.4,2500,"51 Seats available
+25 Window"
+Delhi Airport to Jalandhar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),2024-07-18 19:50:00,10h 30m,2024-07-18 06:20:00,4.3,765,"29 Seats available
+14 Window"
+Chandigarh to Bathinda,Chandigarh Transport Undertaking (CTU) - 165965,HVAC Seater (2+3),2024-07-18 15:10:00,05h 30m,2024-07-18 20:40:00,4.4,371.43,"47 Seats available
+18 Window"
+Chandigarh to Bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-07-18 14:50:00,03h 50m,2024-07-18 18:40:00,3.8,500,"39 Seats available
+15 Window"
+Chandigarh to Bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-07-18 15:25:00,03h 45m,2024-07-18 19:10:00,4.2,500,"37 Seats available
+16 Window"
+Chandigarh to Bathinda,NEW FATEH BUS SERVICE,Volvo A/C Semi Sleeper (2+2),2024-07-18 16:25:00,03h 50m,2024-07-18 20:15:00,4.3,510,26 Seats available
+Chandigarh to Bathinda,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-07-18 16:55:00,03h 45m,2024-07-18 20:40:00,3.1,600,"41 Seats available
+18 Window"
+Chandigarh to Bathinda,RATHORE TRAVELS AGENCY,AC Sleeper (2+1),2024-07-18 18:30:00,04h 45m,2024-07-18 23:15:00,4.8,700,"17 Seats available
+1 Single"
+Chandigarh to Bathinda,Zimindara Travels,AC Sleeper (2+1),2024-07-18 20:00:00,05h 30m,2024-07-18 01:30:00,4.1,810,19 Seats available
+Chandigarh to Bathinda,Rajpreet Travels and cargo,A/C Sleeper (2+1),2024-07-18 20:00:00,05h 15m,2024-07-18 01:15:00,3.4,666,"36 Seats available
+10 Single"
+Chandigarh to Bathinda,Zimindara Travels,AC Sleeper (2+1),2024-07-18 20:30:00,05h 20m,2024-07-18 01:50:00,4.1,810,"36 Seats available
+24 Window"
+Chandigarh to Bathinda,Rajpreet Travels and cargo,A/C Sleeper (2+1),2024-07-18 20:40:00,05h 20m,2024-07-18 02:00:00,3.4,858,34 Seats available
+Chandigarh to Bathinda,AMBIKA MISHRA TRAVELS,AC Sleeper (2+1),2024-07-18 20:40:00,04h 30m,2024-07-18 01:10:00,2.5,750,"32 Seats available
+10 Single"
+Chandigarh to Bathinda,Rajpreet Travels and cargo,A/C Sleeper (2+1),2024-07-18 19:00:00,04h 00m,2024-07-18 23:00:00,3.4,950,"26 Seats available
+8 Single"
+Chandigarh to Bathinda,Rajpreet Travels and cargo,A/C Sleeper (2+1),2024-07-18 21:00:00,04h 30m,2024-07-18 01:30:00,3.4,905,34 Seats available
+Chandigarh to Bathinda,Abhimanyu Tours and Travels,AshokLeyland Stile A/C,2024-07-18 22:20:00,03h 30m,2024-07-18 01:50:00,2.8,900,"30 Seats available
+8 Single"
+Chandigarh to Faridkot,Jujhar Travels,Volvo A/C Semi Sleeper (2+2),2024-07-18 16:20:00,04h 25m,2024-07-18 20:45:00,4.0,600,"38 Seats available
+18 Window"
+Chandigarh to Patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-07-18 14:50:00,01h 40m,2024-07-18 16:30:00,3.9,200,"41 Seats available
+16 Window"
+Chandigarh to Patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-07-18 15:25:00,01h 20m,2024-07-18 16:45:00,3.7,200,"42 Seats available
+20 Window"
+Chandigarh to Patiala,Orbit Aviation Pvt. Ltd.,A/C Seater (2+2),2024-07-18 16:55:00,01h 35m,2024-07-18 18:30:00,2.7,200,"43 Seats available
+20 Window"
+Chandigarh to Patiala,NEW FATEH BUS SERVICE,Volvo A/C Semi Sleeper (2+2),2024-07-18 16:25:00,01h 35m,2024-07-18 18:00:00,3.2,510,26 Seats available
+Chandigarh to Patiala,Abhimanyu Tours and Travels,AshokLeyland Stile A/C,2024-07-18 22:20:00,00h 40m,2024-07-18 23:00:00,2.8,600,"22 Seats available
+4 Single"

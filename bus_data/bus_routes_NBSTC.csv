@@ -1,0 +1,465 @@
+bus_route_name,bus_name,bus_type,departure_time,duration,reaching_time,star_rating,price,seat_availability
+Kolkata to Siliguri,SBSTC-KOLKATA - SILIGURI - VIA - MALDA - 20:00 (BEL DEPO - 3805,Express (Non AC Seater 2+2),2024-07-18 20:00:00,13h 00m,2024-07-18 09:00:00,4.3,500,"26 Seats available
+11 Window"
+Kolkata to Siliguri,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 18:30:00,13h 15m,2024-07-18 07:45:00,4.6,1200,"36 Seats available
+4 Single"
+Kolkata to Siliguri,Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,12h 45m,2024-07-18 07:30:00,4.6,1500,"22 Seats available
+2 Single"
+Kolkata to Siliguri,Greenline,Volvo Multi-Axle A/C Sleeper (2+1),2024-07-18 18:00:00,13h 00m,2024-07-18 07:00:00,4.6,1500,"12 Seats available
+2 Single"
+Kolkata to Siliguri,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),2024-07-18 19:30:00,13h 15m,2024-07-18 08:45:00,4.5,1200,"41 Seats available
+7 Single"
+Kolkata to Siliguri,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,13h 10m,2024-07-18 07:40:00,4.4,1499,"18 Seats available
+2 Single"
+Kolkata to Siliguri,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 18:15:00,12h 00m,2024-07-18 06:15:00,4.4,1200,"46 Seats available
+8 Single"
+Kolkata to Siliguri,AdExpress Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:30:00,12h 55m,2024-07-18 08:25:00,4.3,1199,"46 Seats available
+6 Single"
+Kolkata to Siliguri,Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,12h 30m,2024-07-18 07:30:00,4.4,1499,"21 Seats available
+5 Single"
+Kolkata to Siliguri,Greenline,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,13h 15m,2024-07-18 07:45:00,4.5,1500,"15 Seats available
+1 Single"
+Kolkata to Siliguri,Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 20:00:00,12h 15m,2024-07-18 08:15:00,4.4,1200,38 Seats available
+Kolkata to Siliguri,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),2024-07-18 21:00:00,12h 00m,2024-07-18 09:00:00,4.3,1200,33 Seats available
+Kolkata to Siliguri,Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:30:00,13h 15m,2024-07-18 07:45:00,3.6,825,"27 Seats available
+6 Single"
+Kolkata to Siliguri,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 16:45:00,14h 15m,2024-07-18 07:00:00,2.1,713,"39 Seats available
+19 Window"
+Kolkata to Siliguri,Maa Durga Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 19:00:00,14h 00m,2024-07-18 09:00:00,2.6,600,"15 Seats available
+8 Window"
+Siliguri to Kolkata,NBSTC-SLG-KOL-R1-18:30,NON A/C Seater Push Back (2+2),2024-07-18 18:30:00,12h 00m,2024-07-18 06:30:00,3.9,486,"24 Seats available
+10 Window"
+Siliguri to Kolkata,SBSTC-SILIGURI - KOLKATA - VIA - MALDA - EXPRESS - 19:30 - 3806,Express (Non AC Seater 2+2),2024-07-18 19:30:00,13h 00m,2024-07-18 08:30:00,4.1,500,"28 Seats available
+12 Window"
+Siliguri to Kolkata,EASY RIDE,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,12h 40m,2024-07-18 07:25:00,4.7,1500,"21 Seats available
+7 Single"
+Siliguri to Kolkata,Greenline,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,13h 00m,2024-07-18 07:30:00,4.6,1500,"23 Seats available
+3 Single"
+Siliguri to Kolkata,Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:15:00,12h 30m,2024-07-18 07:45:00,4.6,1500,"19 Seats available
+3 Single"
+Siliguri to Kolkata,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:00:00,12h 05m,2024-07-18 06:05:00,4.5,1500,"16 Seats available
+8 Single"
+Siliguri to Kolkata,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,12h 40m,2024-07-18 07:10:00,4.4,1499,"14 Seats available
+7 Window"
+Siliguri to Kolkata,Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,12h 30m,2024-07-18 07:30:00,4.5,1499,"17 Seats available
+8 Window"
+Siliguri to Kolkata,Greenline,Volvo Multi-Axle A/C Sleeper (2+1),2024-07-18 18:00:00,13h 00m,2024-07-18 07:00:00,4.4,1500,"36 Seats available
+10 Single"
+Siliguri to Kolkata,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 18:30:00,12h 50m,2024-07-18 07:20:00,4.3,1200,"30 Seats available
+6 Single"
+Siliguri to Darjeeling,Oops! No buses found.,,,,,,,
+Kolkata to Raiganj,Lokenath Bus Service,Volvo A/C Seater (2+2),2024-07-18 21:00:00,09h 30m,2024-07-18 06:30:00,4.4,760,"32 Seats available
+13 Window"
+Kolkata to Raiganj,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),2024-07-18 19:30:00,08h 50m,2024-07-18 04:20:00,4.7,900,"41 Seats available
+7 Single"
+Kolkata to Raiganj,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 18:30:00,09h 20m,2024-07-18 03:50:00,4.3,900,"37 Seats available
+3 Single"
+Kolkata to Raiganj,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 18:15:00,10h 00m,2024-07-18 04:15:00,4.2,849,"49 Seats available
+11 Single"
+Kolkata to Raiganj,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,10h 50m,2024-07-18 05:20:00,4.5,1049,"18 Seats available
+2 Single"
+Kolkata to Raiganj,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:30:00,10h 30m,2024-07-18 06:00:00,4.5,849,"47 Seats available
+10 Single"
+Kolkata to Raiganj,Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,11h 00m,2024-07-18 05:45:00,4.2,1200,"25 Seats available
+3 Single"
+Kolkata to Raiganj,Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 20:00:00,08h 45m,2024-07-18 04:45:00,4.9,899,39 Seats available
+Kolkata to Raiganj,Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,09h 45m,2024-07-18 04:45:00,4.6,1499,"25 Seats available
+7 Single"
+Kolkata to Raiganj,Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:30:00,09h 45m,2024-07-18 04:15:00,4.3,825,"32 Seats available
+6 Single"
+Kolkata to Raiganj,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),2024-07-18 21:00:00,08h 20m,2024-07-18 05:20:00,4.0,900,33 Seats available
+Kolkata to Raiganj,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 16:45:00,10h 45m,2024-07-18 03:30:00,2.4,713,"39 Seats available
+19 Window"
+Kolkata to Raiganj,Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 21:30:00,10h 30m,2024-07-18 08:00:00,3.4,500,12 Seats available
+Kolkata to Raiganj,Maa Durga Bus Service,Non AC Seater (2+2),2024-07-18 19:00:00,11h 15m,2024-07-18 06:15:00,2.6,600,"16 Seats available
+8 Window"
+Raiganj to Kolkata,NBSTC-RAI-KOL-R1-19:30,NON A/C Seater Push Back (2+2),2024-07-18 19:30:00,10h 00m,2024-07-18 05:30:00,3.8,341,"18 Seats available
+8 Window"
+Raiganj to Kolkata,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 22:15:00,09h 05m,2024-07-18 07:20:00,4.6,900,"36 Seats available
+8 Single"
+Raiganj to Kolkata,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 22:15:00,08h 55m,2024-07-18 07:10:00,4.3,999,"14 Seats available
+7 Window"
+Raiganj to Kolkata,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 22:45:00,08h 00m,2024-07-18 06:45:00,4.3,849,"36 Seats available
+7 Single"
+Raiganj to Kolkata,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 21:45:00,08h 20m,2024-07-18 06:05:00,4.5,1000,"18 Seats available
+9 Single"
+Raiganj to Kolkata,Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 23:30:00,08h 15m,2024-07-18 07:45:00,4.8,1050,"22 Seats available
+6 Single"
+Raiganj to Kolkata,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 23:15:00,08h 35m,2024-07-18 07:50:00,4.4,900,"50 Seats available
+10 Single"
+Raiganj to Kolkata,Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 23:30:00,08h 00m,2024-07-18 07:30:00,4.7,1499,"21 Seats available
+1 Single"
+Raiganj to Kolkata,EASY RIDE,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 22:45:00,08h 40m,2024-07-18 07:25:00,4.7,1500,"24 Seats available
+8 Single"
+Raiganj to Kolkata,Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,11h 15m,2024-07-18 07:00:00,3.4,500,11 Seats available
+Raiganj to Kolkata,Maa Durga Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 23:00:00,09h 00m,2024-07-18 08:00:00,2.6,600,"8 Seats available
+4 Window"
+Kolkata to Malda,SBSTC-KOLKATA - SILIGURI - VIA - MALDA - 20:00 (BEL DEPO - 3805,Express (Non AC Seater 2+2),2024-07-18 20:00:00,04h 00m,2024-07-18 00:00:00,3.0,290,"29 Seats available
+12 Window"
+Kolkata to Malda,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:45:00,08h 45m,2024-07-18 04:30:00,4.5,649,"16 Seats available
+8 Window"
+Kolkata to Malda,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 20:00:00,08h 30m,2024-07-18 04:30:00,4.1,650,"29 Seats available
+13 Window"
+Kolkata to Malda,Lokenath Bus Service,Volvo A/C Seater (2+2),2024-07-18 21:00:00,08h 15m,2024-07-18 05:15:00,4.4,599,"32 Seats available
+13 Window"
+Kolkata to Malda,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 20:30:00,06h 40m,2024-07-18 03:10:00,4.3,749,25 Seats available
+Kolkata to Malda,Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,08h 15m,2024-07-18 03:00:00,4.8,1050,"22 Seats available
+2 Single"
+Kolkata to Malda,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 18:15:00,07h 45m,2024-07-18 02:00:00,4.7,699,"46 Seats available
+8 Single"
+Kolkata to Malda,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),2024-07-18 19:30:00,08h 20m,2024-07-18 03:50:00,4.3,800,"41 Seats available
+7 Single"
+Kolkata to Malda,Shyamoli Paribahan Pvt Ltd,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 18:30:00,08h 50m,2024-07-18 03:20:00,4.7,800,"36 Seats available
+4 Single"
+Kolkata to Malda,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,08h 50m,2024-07-18 03:20:00,4.4,999,"18 Seats available
+2 Single"
+Kolkata to Malda,Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 20:00:00,07h 30m,2024-07-18 03:30:00,4.5,749,39 Seats available
+Kolkata to Malda,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:30:00,08h 30m,2024-07-18 04:00:00,3.8,799,"47 Seats available
+7 Single"
+Kolkata to Malda,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 17:30:00,10h 30m,2024-07-18 04:00:00,3.2,350,"22 Seats available
+10 Window"
+Kolkata to Malda,Sonar Tori,A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,09h 00m,2024-07-18 04:45:00,2.8,504,"28 Seats available
+13 Window"
+Kolkata to Malda,Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,08h 15m,2024-07-18 03:15:00,4.3,1499,"26 Seats available
+6 Single"
+Cooch Behar (West Bengal) to Berhampore (West Bengal),Upasana Transport,NON A/C Seater / Sleeper (2+2),2024-07-18 17:00:00,13h 40m,2024-07-18 06:40:00,3.5,600,13 Seats available
+Kolkata to Cooch Behar (West Bengal),NORTH BENGAL STATE TRANSPORT CORPORATION,Non AC Seater (2+3),2024-07-18 15:00:00,15h 00m,2024-07-18 06:00:00,3.4,565,"48 Seats available
+18 Window"
+Kolkata to Cooch Behar (West Bengal),NBSTC-KOL-COB-R1-17:00,Non AC Seater 2+2,2024-07-18 17:00:00,15h 00m,2024-07-18 08:00:00,3.5,608,"27 Seats available
+12 Window"
+Malda to Kolkata,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 22:00:00,07h 00m,2024-07-18 05:00:00,4.6,649,"4 Seats available
+1 Single"
+Malda to Kolkata,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 23:30:00,07h 40m,2024-07-18 07:10:00,4.7,899,"14 Seats available
+7 Window"
+Malda to Kolkata,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 22:00:00,07h 00m,2024-07-18 05:00:00,4.2,650,"19 Seats available
+8 Window"
+Malda to Kolkata,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 21:50:00,06h 40m,2024-07-18 04:30:00,4.4,749,12 Seats available
+Malda to Kolkata,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 23:15:00,06h 50m,2024-07-18 06:05:00,4.5,900,"19 Seats available
+9 Single"
+Malda to Kolkata,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 22:45:00,08h 00m,2024-07-18 06:45:00,3.2,333,"38 Seats available
+18 Window"
+Malda to Kolkata,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 23:55:00,06h 50m,2024-07-18 06:45:00,3.3,649,"38 Seats available
+7 Single"
+Malda to Kolkata,Sonar Tori,A/C Seater / Sleeper (2+2),2024-07-18 22:20:00,08h 10m,2024-07-18 06:30:00,3.1,504,"26 Seats available
+13 Window"
+Malda to Kolkata,EASY RIDE,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 23:55:00,07h 30m,2024-07-18 07:25:00,4.7,1500,"21 Seats available
+7 Single"
+Malda to Kolkata,New Dolphin Travels,A/C Seater / Sleeper (2+2),2024-07-18 22:20:00,08h 40m,2024-07-18 07:00:00,3.9,504,"44 Seats available
+20 Window"
+Malda to Kolkata,Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 21:54:00,08h 06m,2024-07-18 06:00:00,3.3,333,"18 Seats available
+8 Window"
+Malda to Kolkata,Swarnali Paribahan,NON A/C Seater Push Back (2+2),2024-07-18 22:30:00,07h 30m,2024-07-18 06:00:00,1.9,290,"19 Seats available
+9 Window"
+Malda to Kolkata,Mohanta Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 22:10:00,07h 50m,2024-07-18 06:00:00,2.8,314,31 Seats available
+Malda to Kolkata,Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 22:00:00,08h 00m,2024-07-18 06:00:00,2.7,350,23 Seats available
+Malda to Kolkata,Lokenath Bus Service,Non AC Seater (2+2),2024-07-18 18:00:00,11h 30m,2024-07-18 05:30:00,3.4,4500,1 Seat available
+Malda to Kolkata,Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 22:30:00,08h 30m,2024-07-18 07:00:00,3.4,350,11 Seats available
+Malda to Kolkata,Wasim Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:30:00,09h 30m,2024-07-18 05:00:00,1.7,455,"12 Seats available
+6 Window"
+Berhampore (West Bengal) to Cooch Behar (West Bengal),NBSTC-BHP-COB-R1-18:30,Non AC Seater 2+2,2024-07-18 18:30:00,12h 30m,2024-07-18 07:00:00,3.4,448,"25 Seats available
+11 Window"
+Berhampore (West Bengal) to Cooch Behar (West Bengal),Upasana Transport,NON A/C Seater / Sleeper (2+2),2024-07-18 20:40:00,12h 10m,2024-07-18 08:50:00,3.5,600,12 Seats available
+Cooch Behar (West Bengal) to Kolkata,Oops! No buses found.,,,,,,,
+Kolkata to Balurghat,NBSTC-KOL-BLG-R1-19:30,NON A/C Seater Push Back (2+2),2024-07-18 19:30:00,11h 30m,2024-07-18 07:00:00,3.8,367,"33 Seats available
+15 Window"
+Kolkata to Balurghat,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:45:00,10h 30m,2024-07-18 06:15:00,4.7,699,"16 Seats available
+8 Window"
+Kolkata to Balurghat,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 20:30:00,08h 30m,2024-07-18 05:00:00,4.1,749,25 Seats available
+Kolkata to Balurghat,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 20:00:00,10h 15m,2024-07-18 06:15:00,3.9,700,"29 Seats available
+13 Window"
+Kolkata to Balurghat,Sonar Tori,A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,09h 45m,2024-07-18 05:30:00,3.5,504,"28 Seats available
+13 Window"
+Kolkata to Balurghat,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 17:30:00,13h 30m,2024-07-18 07:00:00,3.0,350,"22 Seats available
+10 Window"
+Kolkata to Balurghat,Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:30:00,12h 30m,2024-07-18 08:00:00,3.4,352,"2 Seats available
+1 Window"
+Kolkata to Balurghat,Padmanabha Paribahan,A/C Seater / Sleeper (2+2),2024-07-18 20:00:00,10h 30m,2024-07-18 06:30:00,2.6,475,49 Seats available
+Kolkata to Balurghat,Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 18:45:00,12h 45m,2024-07-18 07:30:00,2.5,350,9 Seats available
+Kolkata to Balurghat,Mohanta Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 21:00:00,10h 00m,2024-07-18 07:00:00,2.2,314,56 Seats available
+Berhampore (West Bengal) to Siliguri,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 23:45:00,06h 30m,2024-07-18 06:15:00,4.4,800,"45 Seats available
+8 Single"
+Berhampore (West Bengal) to Siliguri,Aradhana Travels,A/C Seater / Sleeper (2+1),2024-07-18 20:50:00,09h 10m,2024-07-18 06:00:00,4.2,713,"19 Seats available
+3 Single"
+Berhampore (West Bengal) to Siliguri,Aradhana Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),2024-07-18 22:00:00,08h 00m,2024-07-18 06:00:00,3.9,855,"39 Seats available
+17 Window"
+Berhampore (West Bengal) to Siliguri,RAYAN,NON A/C Seater / Sleeper (2+2),2024-07-18 22:30:00,08h 00m,2024-07-18 06:30:00,New,500,31 Seats available
+Berhampore (West Bengal) to Siliguri,RAYAN,NON A/C Seater / Sleeper (2+2),2024-07-18 20:00:00,09h 30m,2024-07-18 05:30:00,New,450,33 Seats available
+Berhampore (West Bengal) to Siliguri,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 23:15:00,07h 45m,2024-07-18 07:00:00,2.5,713,"39 Seats available
+19 Window"
+Berhampore (West Bengal) to Siliguri,Upasana Transport,A/C Seater / Sleeper (2+2),2024-07-18 20:20:00,08h 40m,2024-07-18 05:00:00,3.1,560,16 Seats available
+Berhampore (West Bengal) to Siliguri,Royal Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 21:30:00,08h 30m,2024-07-18 06:00:00,2.4,450,"24 Seats available
+12 Window"
+Berhampore (West Bengal) to Siliguri,Upasana Transport,NON A/C Seater / Sleeper (2+2),2024-07-18 20:40:00,08h 20m,2024-07-18 05:00:00,3.1,475,14 Seats available
+Berhampore (West Bengal) to Siliguri,Aradhana Travels,A/C Seater / Sleeper (2+2),2024-07-18 20:00:00,09h 00m,2024-07-18 05:00:00,2.8,570,"44 Seats available
+22 Window"
+Berhampore (West Bengal) to Siliguri,Aradhana Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 21:10:00,10h 20m,2024-07-18 07:30:00,2.3,475,"33 Seats available
+16 Window"
+Siliguri to Berhampore (West Bengal),NBSTC-SLG-KOL-R1-18:30,NON A/C Seater Push Back (2+2),2024-07-18 18:30:00,06h 40m,2024-07-18 01:10:00,4.0,326,"26 Seats available
+11 Window"
+Siliguri to Berhampore (West Bengal),Aradhana Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),2024-07-18 21:30:00,08h 00m,2024-07-18 05:30:00,3.9,855,"29 Seats available
+14 Window"
+Siliguri to Berhampore (West Bengal),Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 18:45:00,07h 15m,2024-07-18 02:00:00,4.3,800,"36 Seats available
+7 Single"
+Siliguri to Berhampore (West Bengal),Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:15:00,07h 15m,2024-07-18 02:30:00,4.5,1200,"19 Seats available
+3 Single"
+Siliguri to Berhampore (West Bengal),Aradhana Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:05:00,07h 45m,2024-07-18 02:50:00,3.3,713,"32 Seats available
+7 Single"
+Siliguri to Berhampore (West Bengal),Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 20:30:00,06h 55m,2024-07-18 03:25:00,3.9,800,40 Seats available
+Siliguri to Berhampore (West Bengal),Upasana Transport,A/C Seater / Sleeper (2+2),2024-07-18 20:00:00,08h 30m,2024-07-18 04:30:00,4.0,560,16 Seats available
+Siliguri to Berhampore (West Bengal),Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,07h 40m,2024-07-18 02:40:00,3.8,1499,"18 Seats available
+9 Window"
+Siliguri to Berhampore (West Bengal),EASY RIDE,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,07h 20m,2024-07-18 02:05:00,3.0,1500,"24 Seats available
+8 Single"
+Siliguri to Berhampore (West Bengal),Upasana Transport,NON A/C Seater / Sleeper (2+2),2024-07-18 22:20:00,08h 20m,2024-07-18 06:40:00,2.7,475,13 Seats available
+Siliguri to Berhampore (West Bengal),Aradhana Travels,A/C Seater / Sleeper (2+2),2024-07-18 22:00:00,08h 00m,2024-07-18 06:00:00,3.2,570,"43 Seats available
+21 Window"
+Siliguri to Berhampore (West Bengal),Aradhana Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 22:00:00,10h 30m,2024-07-18 08:30:00,2.6,475,"32 Seats available
+15 Window"
+Siliguri to Berhampore (West Bengal),Royal Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 21:10:00,08h 50m,2024-07-18 06:00:00,2.8,450,"28 Seats available
+14 Window"
+Kolkata to Gangarampur,NBSTC-KOL-BLG-R1-19:30,NON A/C Seater Push Back (2+2),2024-07-18 19:30:00,10h 30m,2024-07-18 06:00:00,3.3,335,"33 Seats available
+15 Window"
+Kolkata to Gangarampur,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:45:00,10h 00m,2024-07-18 05:45:00,4.6,699,"16 Seats available
+2 Single"
+Kolkata to Gangarampur,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 20:00:00,09h 45m,2024-07-18 05:45:00,4.1,700,"29 Seats available
+13 Window"
+Kolkata to Gangarampur,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 20:30:00,07h 45m,2024-07-18 04:15:00,3.6,749,28 Seats available
+Kolkata to Gangarampur,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 17:30:00,12h 00m,2024-07-18 05:30:00,4.8,350,"22 Seats available
+10 Window"
+Kolkata to Gangarampur,Renuka Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 20:30:00,10h 45m,2024-07-18 07:15:00,1.0,370,"60 Seats available
+30 Window"
+Kolkata to Gangarampur,Renuka Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 21:30:00,10h 00m,2024-07-18 07:30:00,1.0,370,"61 Seats available
+30 Window"
+Siliguri to Kalimpong,Oops! No buses found.,,,,,,,
+Cooch Behar (West Bengal) to Malda,NBSTC-COB-KOL-R1-13:30,Non AC Seater 2+2,2024-07-18 13:30:00,07h 30m,2024-07-18 21:00:00,4.0,338,"17 Seats available
+9 Window"
+Cooch Behar (West Bengal) to Malda,NBSTC-COB-BHP-R1-19:00,Non AC Seater 2+2,2024-07-18 19:00:00,08h 19m,2024-07-18 03:19:00,4.0,338,"26 Seats available
+13 Window"
+Malda to Cooch Behar (West Bengal),NBSTC-BHP-COB-R1-18:30,Non AC Seater 2+2,2024-07-18 20:50:00,10h 10m,2024-07-18 07:00:00,3.6,338,"25 Seats available
+11 Window"
+Balurghat to Kolkata,NBSTC-BLG-KOL-R1-18:30,NON A/C Seater Push Back (2+2),2024-07-18 18:30:00,11h 30m,2024-07-18 06:00:00,4.2,367,"13 Seats available
+5 Window"
+Balurghat to Kolkata,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 18:50:00,10h 10m,2024-07-18 05:00:00,4.4,699,"8 Seats available
+4 Window"
+Balurghat to Kolkata,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 19:15:00,09h 45m,2024-07-18 05:00:00,4.2,700,"16 Seats available
+6 Window"
+Balurghat to Kolkata,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 18:55:00,09h 35m,2024-07-18 04:30:00,4.0,749,12 Seats available
+Balurghat to Kolkata,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,11h 00m,2024-07-18 06:45:00,3.7,350,"38 Seats available
+18 Window"
+Balurghat to Kolkata,Sonar Tori,A/C Seater / Sleeper (2+2),2024-07-18 19:30:00,11h 00m,2024-07-18 06:30:00,3.0,542,"22 Seats available
+11 Window"
+Balurghat to Kolkata,Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 18:30:00,11h 30m,2024-07-18 06:00:00,3.3,333,"18 Seats available
+8 Window"
+Balurghat to Kolkata,New Dolphin Travels,A/C Seater / Sleeper (2+2),2024-07-18 19:40:00,11h 20m,2024-07-18 07:00:00,3.0,523,"44 Seats available
+20 Window"
+Balurghat to Kolkata,Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 18:45:00,11h 15m,2024-07-18 06:00:00,3.9,350,21 Seats available
+Balurghat to Kolkata,Mohanta Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:00:00,11h 00m,2024-07-18 06:00:00,2.1,314,31 Seats available
+Kolkata to Jalpaiguri,NORTH BENGAL STATE TRANSPORT CORPORATION,Non AC Seater (2+3),2024-07-18 15:00:00,13h 50m,2024-07-18 04:50:00,3.1,485,"49 Seats available
+19 Window"
+Kolkata to Jalpaiguri,NBSTC-KOL-COB-R1-17:00,Non AC Seater 2+2,2024-07-18 17:00:00,12h 45m,2024-07-18 05:45:00,3.1,525,"27 Seats available
+12 Window"
+Kolkata to Islampur (West Bengal),Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:30:00,11h 55m,2024-07-18 07:25:00,4.4,999,"47 Seats available
+10 Single"
+Kolkata to Islampur (West Bengal),Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,12h 00m,2024-07-18 07:00:00,4.8,1499,"22 Seats available
+5 Single"
+Kolkata to Islampur (West Bengal),Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),2024-07-18 19:30:00,12h 10m,2024-07-18 07:40:00,4.1,1200,"41 Seats available
+7 Single"
+Kolkata to Islampur (West Bengal),Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,12h 10m,2024-07-18 06:40:00,4.6,1199,"18 Seats available
+2 Single"
+Kolkata to Islampur (West Bengal),EASY RIDE,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,12h 00m,2024-07-18 06:45:00,4.7,1500,"39 Seats available
+13 Single"
+Kolkata to Islampur (West Bengal),Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:30:00,11h 50m,2024-07-18 06:20:00,4.3,825,"33 Seats available
+8 Single"
+Kolkata to Islampur (West Bengal),Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 16:45:00,13h 15m,2024-07-18 06:00:00,2.4,713,"39 Seats available
+19 Window"
+Falakata (west bengal) to Berhampore (West Bengal),NBSTC-COB-KOL-R1-13:30,Non AC Seater 2+2,2024-07-18 14:10:00,11h 05m,2024-07-18 01:15:00,3.6,411,"17 Seats available
+9 Window"
+Falakata (west bengal) to Berhampore (West Bengal),NBSTC-COB-BHP-R1-19:00,Non AC Seater 2+2,2024-07-18 19:50:00,11h 40m,2024-07-18 07:30:00,3.6,411,"26 Seats available
+13 Window"
+Kolkata to Falakata (west bengal),NORTH BENGAL STATE TRANSPORT CORPORATION,Non AC Seater (2+3),2024-07-18 15:00:00,14h 30m,2024-07-18 05:30:00,4.1,530,"49 Seats available
+19 Window"
+Kolkata to Falakata (west bengal),NBSTC-KOL-COB-R1-17:00,Non AC Seater 2+2,2024-07-18 17:00:00,14h 00m,2024-07-18 07:00:00,4.2,571,"27 Seats available
+12 Window"
+Cooch Behar (West Bengal) to Raiganj,NBSTC-COB-BHP-R1-19:00,Non AC Seater 2+2,2024-07-18 19:00:00,06h 45m,2024-07-18 01:45:00,4.0,277,"26 Seats available
+13 Window"
+Siliguri to Cooch Behar (West Bengal),NORTH BENGAL STATE TRANSPORT CORPORATION,Non AC Seater (2+3),2024-07-18 15:40:00,04h 00m,2024-07-18 19:40:00,3.3,120,"46 Seats available
+18 Window"
+Siliguri to Cooch Behar (West Bengal),Mahaprabhu Travels,A/C Seater (2+3),2024-07-18 13:58:00,03h 02m,2024-07-18 17:00:00,3.9,250,"39 Seats available
+14 Window"
+Raiganj to Krishnanagar (West Bengal),NBSTC-RAI-KOL-R1-19:30,NON A/C Seater Push Back (2+2),2024-07-18 19:30:00,07h 30m,2024-07-18 03:00:00,3.7,250,"28 Seats available
+12 Window"
+Raiganj to Krishnanagar (West Bengal),Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:10:00,05h 30m,2024-07-18 04:40:00,3.6,825,"34 Seats available
+12 Single"
+Raiganj to Krishnanagar (West Bengal),RAYAN,NON A/C Seater / Sleeper (2+2),2024-07-18 22:00:00,11h 00m,2024-07-18 09:00:00,New,500,59 Seats available
+Raiganj to Krishnanagar (West Bengal),Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,07h 35m,2024-07-18 03:20:00,3.4,350,12 Seats available
+Raiganj to Krishnanagar (West Bengal),Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 19:15:00,07h 45m,2024-07-18 03:00:00,2.4,665,"33 Seats available
+16 Window"
+Raiganj to Siliguri,Mohanta Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 22:50:00,06h 10m,2024-07-18 05:00:00,4.1,209,"54 Seats available
+26 Window"
+Raiganj to Siliguri,Mohanta Travels,A/C Seater / Sleeper (2+2),2024-07-18 23:30:00,05h 30m,2024-07-18 05:00:00,4.1,361,"17 Seats available
+8 Window"
+Raiganj to Siliguri,Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 23:40:00,05h 20m,2024-07-18 05:00:00,3.4,250,26 Seats available
+Raiganj to Siliguri,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 23:55:00,05h 05m,2024-07-18 05:00:00,3.5,209,"35 Seats available
+17 Window"
+Raiganj to Siliguri,Gopal Travels,A/C Seater / Sleeper (2+2),2024-07-18 23:30:00,04h 30m,2024-07-18 04:00:00,2.7,300,65 Seats available
+Raiganj to Siliguri,Padmanabha Travels,A/C Seater / Sleeper (2+2),2024-07-18 23:50:00,05h 15m,2024-07-18 05:05:00,2.6,247,"21 Seats available
+10 Window"
+Kolkata to Buniadpur,NBSTC-KOL-BLG-R1-19:30,NON A/C Seater Push Back (2+2),2024-07-18 19:30:00,10h 00m,2024-07-18 05:30:00,4.3,323,"34 Seats available
+16 Window"
+Kolkata to Buniadpur,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:45:00,09h 30m,2024-07-18 05:15:00,4.5,699,"16 Seats available
+2 Single"
+Kolkata to Buniadpur,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 20:00:00,09h 15m,2024-07-18 05:15:00,3.8,700,"41 Seats available
+20 Window"
+Kolkata to Buniadpur,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 20:30:00,07h 20m,2024-07-18 03:50:00,4.2,749,37 Seats available
+Kolkata to Buniadpur,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 17:30:00,11h 40m,2024-07-18 05:10:00,3.9,350,"22 Seats available
+10 Window"
+Kolkata to Buniadpur,Renuka Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 20:30:00,10h 15m,2024-07-18 06:45:00,1.6,350,"60 Seats available
+30 Window"
+Gangarampur to Kolkata,NBSTC-BLG-KOL-R1-18:30,NON A/C Seater Push Back (2+2),2024-07-18 19:20:00,10h 40m,2024-07-18 06:00:00,3.9,334,"14 Seats available
+6 Window"
+Gangarampur to Kolkata,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:45:00,09h 15m,2024-07-18 05:00:00,4.3,699,"8 Seats available
+4 Window"
+Gangarampur to Kolkata,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 20:00:00,09h 00m,2024-07-18 05:00:00,4.1,700,"19 Seats available
+8 Window"
+Gangarampur to Kolkata,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:35:00,08h 55m,2024-07-18 04:30:00,4.5,749,19 Seats available
+Gangarampur to Kolkata,Sonar Tori,A/C Seater / Sleeper (2+2),2024-07-18 20:15:00,10h 15m,2024-07-18 06:30:00,4.1,542,"26 Seats available
+13 Window"
+Gangarampur to Kolkata,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 21:20:00,09h 25m,2024-07-18 06:45:00,2.7,314,"38 Seats available
+18 Window"
+Gangarampur to Kolkata,New Dolphin Travels,A/C Seater / Sleeper (2+2),2024-07-18 20:40:00,10h 20m,2024-07-18 07:00:00,4.1,542,"44 Seats available
+20 Window"
+Gangarampur to Kolkata,Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:40:00,10h 20m,2024-07-18 06:00:00,3.1,323,"18 Seats available
+8 Window"
+Gangarampur to Kolkata,Mohanta Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 20:00:00,10h 00m,2024-07-18 06:00:00,2.8,314,31 Seats available
+Gangarampur to Kolkata,Swarnali Paribahan,NON A/C Seater Push Back (2+2),2024-07-18 19:45:00,10h 15m,2024-07-18 06:00:00,2.4,290,"26 Seats available
+13 Window"
+Gangarampur to Kolkata,Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,10h 15m,2024-07-18 06:00:00,3.4,350,23 Seats available
+Siliguri to Ranaghat,NBSTC-SLG-KOL-R1-18:30,NON A/C Seater Push Back (2+2),2024-07-18 18:30:00,10h 20m,2024-07-18 04:50:00,4.1,423,"29 Seats available
+13 Window"
+Siliguri to Ranaghat,Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 20:30:00,09h 05m,2024-07-18 05:35:00,4.7,1200,40 Seats available
+Siliguri to Ranaghat,Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:15:00,09h 35m,2024-07-18 04:50:00,4.6,1300,"22 Seats available
+6 Single"
+Siliguri to Ranaghat,RAYAN,NON A/C Seater / Sleeper (2+2),2024-07-18 16:50:00,12h 10m,2024-07-18 05:00:00,New,450,59 Seats available
+Siliguri to Ranaghat,Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 18:45:00,09h 45m,2024-07-18 04:30:00,4.7,1050,"39 Seats available
+10 Single"
+Siliguri to Ranaghat,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 14:30:00,12h 40m,2024-07-18 03:10:00,2.4,665,"33 Seats available
+16 Window"
+Siliguri to Krishnanagar (West Bengal),NBSTC-SLG-KOL-R1-18:30,NON A/C Seater Push Back (2+2),2024-07-18 18:30:00,10h 00m,2024-07-18 04:30:00,3.9,395,"26 Seats available
+11 Window"
+Siliguri to Krishnanagar (West Bengal),Aradhana Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:05:00,10h 25m,2024-07-18 05:30:00,3.9,713,"32 Seats available
+7 Single"
+Siliguri to Krishnanagar (West Bengal),Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,09h 00m,2024-07-18 04:00:00,4.6,1499,"23 Seats available
+1 Single"
+Siliguri to Krishnanagar (West Bengal),Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),2024-07-18 20:30:00,08h 30m,2024-07-18 05:00:00,4.7,1200,40 Seats available
+Siliguri to Krishnanagar (West Bengal),EASY RIDE,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,09h 30m,2024-07-18 04:15:00,4.3,1500,"24 Seats available
+8 Single"
+Siliguri to Krishnanagar (West Bengal),RAYAN,NON A/C Seater / Sleeper (2+2),2024-07-18 16:50:00,16h 10m,2024-07-18 09:00:00,New,500,59 Seats available
+Siliguri to Krishnanagar (West Bengal),Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:30:00,09h 40m,2024-07-18 04:10:00,4.6,1199,"14 Seats available
+7 Window"
+Siliguri to Krishnanagar (West Bengal),Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 19:00:00,09h 40m,2024-07-18 04:40:00,3.6,825,"34 Seats available
+12 Single"
+Siliguri to Krishnanagar (West Bengal),Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:15:00,09h 15m,2024-07-18 04:30:00,4.7,1300,"31 Seats available
+9 Single"
+Siliguri to Krishnanagar (West Bengal),Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 18:45:00,09h 15m,2024-07-18 04:00:00,3.4,1050,"38 Seats available
+6 Single"
+Siliguri to Krishnanagar (West Bengal),Kanchanjangha (Saha Travels),NON A/C Seater / Sleeper (2+2),2024-07-18 16:20:00,12h 10m,2024-07-18 04:30:00,3.7,428,14 Seats available
+Siliguri to Krishnanagar (West Bengal),Mahaprabhu Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:00:00,12h 00m,2024-07-18 07:00:00,2.0,535,"44 Seats available
+22 Window"
+Siliguri to Krishnanagar (West Bengal),Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 14:30:00,12h 30m,2024-07-18 03:00:00,2.4,665,"33 Seats available
+16 Window"
+Falakata (west bengal) to Kolkata,NBSTC-COB-KOL-R1-13:30,Non AC Seater 2+2,2024-07-18 14:10:00,16h 20m,2024-07-18 06:30:00,2.8,571,"17 Seats available
+9 Window"
+Kolkata to Farakka,NBSTC-KOL-RAI-R1-20:30,NON A/C Seater Push Back (2+2),2024-07-18 20:30:00,04h 45m,2024-07-18 01:15:00,3.6,251,"30 Seats available
+13 Window"
+Kolkata to Farakka,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:45:00,08h 15m,2024-07-18 04:00:00,4.7,649,"16 Seats available
+8 Window"
+Kolkata to Farakka,Shyamoli Paribahan Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),2024-07-18 20:00:00,08h 00m,2024-07-18 04:00:00,4.0,650,"29 Seats available
+13 Window"
+Kolkata to Farakka,New Dolphin Travels,A/C Seater / Sleeper (2+2),2024-07-18 19:00:00,07h 45m,2024-07-18 02:45:00,2.8,504,"61 Seats available
+30 Window"
+Kolkata to Farakka,Rubi Paribahan,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 19:00:00,07h 15m,2024-07-18 02:15:00,4.3,1499,"21 Seats available
+5 Single"
+Kolkata to Farakka,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 20:30:00,06h 00m,2024-07-18 02:30:00,4.3,749,25 Seats available
+Kolkata to Farakka,Lokenath Bus Service,Volvo A/C Seater (2+2),2024-07-18 21:00:00,06h 45m,2024-07-18 03:45:00,4.8,599,"32 Seats available
+13 Window"
+Kolkata to Farakka,Wasim Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 22:00:00,08h 00m,2024-07-18 06:00:00,2.5,455,"12 Seats available
+6 Window"
+Kolkata to Farakka,Wasim Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 22:30:00,08h 00m,2024-07-18 06:30:00,1.7,455,"12 Seats available
+6 Window"
+Kolkata to Farakka,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 16:45:00,08h 45m,2024-07-18 01:30:00,2.4,713,"39 Seats available
+19 Window"
+Kolkata to Farakka,Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 21:30:00,07h 45m,2024-07-18 05:15:00,3.4,350,12 Seats available
+Siliguri to Raiganj,Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 20:00:00,06h 00m,2024-07-18 02:00:00,3.4,250,17 Seats available
+Siliguri to Raiganj,EASY RIDE,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 18:45:00,04h 00m,2024-07-18 22:45:00,4.5,1500,"23 Seats available
+7 Single"
+Kolkata to Dhupguri (West Bengal),NORTH BENGAL STATE TRANSPORT CORPORATION,Non AC Seater (2+3),2024-07-18 15:00:00,14h 15m,2024-07-18 05:15:00,4.8,515,"47 Seats available
+17 Window"
+Kolkata to Dhupguri (West Bengal),NBSTC-KOL-COB-R1-17:00,Non AC Seater 2+2,2024-07-18 17:00:00,13h 30m,2024-07-18 06:30:00,4.8,555,"27 Seats available
+12 Window"
+Falakata (west bengal) to Malda,NBSTC-COB-KOL-R1-13:30,Non AC Seater 2+2,2024-07-18 14:10:00,06h 50m,2024-07-18 21:00:00,3.1,302,"17 Seats available
+9 Window"
+Falakata (west bengal) to Malda,NBSTC-COB-BHP-R1-19:00,Non AC Seater 2+2,2024-07-18 19:50:00,07h 29m,2024-07-18 03:19:00,3.1,302,"26 Seats available
+13 Window"
+Kolkata to Gazole,NBSTC-KOL-RAI-R1-20:30,NON A/C Seater Push Back (2+2),2024-07-18 20:30:00,07h 30m,2024-07-18 04:00:00,3.5,301,"30 Seats available
+13 Window"
+Kolkata to Gazole,Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 19:45:00,09h 00m,2024-07-18 04:45:00,4.9,649,"16 Seats available
+8 Window"
+Kolkata to Gazole,Rubi Paribahan,Volvo 9600 A/C Seater/Sleeper (2+1),2024-07-18 20:30:00,07h 00m,2024-07-18 03:30:00,4.9,749,39 Seats available
+Kolkata to Gazole,New Dolphin Travels,A/C Seater / Sleeper (2+2),2024-07-18 19:00:00,09h 15m,2024-07-18 04:15:00,2.8,551,"61 Seats available
+30 Window"
+Kolkata to Gazole,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 17:30:00,11h 00m,2024-07-18 04:30:00,2.8,350,"22 Seats available
+10 Window"
+Kolkata to Gazole,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 16:45:00,09h 45m,2024-07-18 02:30:00,2.4,713,"39 Seats available
+19 Window"
+Kolkata to Gazole,Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 21:30:00,09h 15m,2024-07-18 06:45:00,3.4,400,12 Seats available
+Kolkata to Gazole,Renuka Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 20:30:00,09h 30m,2024-07-18 06:00:00,1.6,370,"60 Seats available
+30 Window"
+Berhampore (West Bengal) to Falakata (west bengal),NBSTC-BHP-COB-R1-18:30,Non AC Seater 2+2,2024-07-18 18:30:00,11h 00m,2024-07-18 05:30:00,4.6,412,"30 Seats available
+15 Window"
+Balurghat to Siliguri,New Dolphin Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 21:40:00,07h 20m,2024-07-18 05:00:00,4.0,238,"40 Seats available
+19 Window"
+Balurghat to Siliguri,Mohanta Travels,A/C Seater / Sleeper (2+2),2024-07-18 21:00:00,08h 00m,2024-07-18 05:00:00,3.4,361,"18 Seats available
+9 Window"
+Balurghat to Siliguri,Padmanabha Travels,A/C Seater / Sleeper (2+2),2024-07-18 20:45:00,08h 20m,2024-07-18 05:05:00,3.4,271,"21 Seats available
+10 Window"
+Balurghat to Siliguri,Shree Krishna Travels,A/C Seater / Sleeper (2+2),2024-07-18 21:10:00,07h 20m,2024-07-18 04:30:00,4.0,300,23 Seats available
+Balurghat to Siliguri,Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,09h 15m,2024-07-18 05:00:00,3.4,250,26 Seats available
+Balurghat to Siliguri,Sankar Travels,A/C Seater / Sleeper (2+1),2024-07-18 20:10:00,08h 20m,2024-07-18 04:30:00,2.9,550,1 Seat available
+Balurghat to Siliguri,Gopal Travels,A/C Seater / Sleeper (2+2),2024-07-18 20:30:00,07h 30m,2024-07-18 04:00:00,1.3,250,65 Seats available
+Balurghat to Siliguri,Mohanta Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 20:00:00,09h 00m,2024-07-18 05:00:00,3.4,209,"54 Seats available
+26 Window"
+Balurghat to Siliguri,Padmanabha Paribahan,A/C Seater / Sleeper (2+2),2024-07-18 21:30:00,07h 15m,2024-07-18 04:45:00,2.6,285,39 Seats available
+Siliguri to Barasat (West Bengal),NBSTC-SLG-KOL-R1-18:30,NON A/C Seater Push Back (2+2),2024-07-18 18:30:00,11h 00m,2024-07-18 05:30:00,4.2,466,"27 Seats available
+12 Window"
+Kolkata to Maynaguri (West Bengal),NORTH BENGAL STATE TRANSPORT CORPORATION,Non AC Seater (2+3),2024-07-18 15:00:00,14h 00m,2024-07-18 05:00:00,4.4,500,"49 Seats available
+19 Window"
+Kolkata to Maynaguri (West Bengal),NBSTC-KOL-COB-R1-17:00,Non AC Seater 2+2,2024-07-18 17:00:00,13h 00m,2024-07-18 06:00:00,4.4,538,"27 Seats available
+12 Window"
+Kolkata to Itahar (West Bengal),NBSTC-KOL-RAI-R1-20:30,NON A/C Seater Push Back (2+2),2024-07-18 20:30:00,08h 30m,2024-07-18 05:00:00,3.2,323,"30 Seats available
+13 Window"
+Kolkata to Itahar (West Bengal),Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 16:45:00,10h 30m,2024-07-18 03:15:00,2.4,713,"39 Seats available
+19 Window"
+Kolkata to Itahar (West Bengal),Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 21:30:00,09h 40m,2024-07-18 07:10:00,3.4,500,12 Seats available
+Cooch Behar (West Bengal) to Krishnanagar (West Bengal),Mahaprabhu Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 15:30:00,15h 30m,2024-07-18 07:00:00,2.1,635,"44 Seats available
+22 Window"
+Cooch Behar (West Bengal) to Omarpur (West Bengal),NBSTC-COB-BHP-R1-19:00,Non AC Seater 2+2,2024-07-18 19:00:00,11h 00m,2024-07-18 06:00:00,3.7,405,"26 Seats available
+13 Window"
+Berhampore (West Bengal) to Jalpaiguri,NBSTC-BHP-COB-R1-18:30,Non AC Seater 2+2,2024-07-18 18:30:00,09h 00m,2024-07-18 03:30:00,4.6,361,"25 Seats available
+11 Window"
+Malda to Siliguri,New Das Paribahan,NON A/C Seater / Sleeper (2+2),2024-07-18 23:25:00,06h 10m,2024-07-18 05:35:00,3.4,635,"12 Seats available
+6 Window"
+Malda to Siliguri,Aradhana Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,06h 30m,2024-07-18 06:00:00,3.6,713,"17 Seats available
+3 Single"
+Malda to Siliguri,Aradhana Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),2024-07-18 23:59:00,06h 01m,2024-07-18 06:00:00,3.7,855,"39 Seats available
+17 Window"
+Malda to Siliguri,Aradhana Travels,NON A/C Seater / Sleeper (2+2),2024-07-18 23:59:00,07h 31m,2024-07-18 07:30:00,2.2,380,"33 Seats available
+16 Window"
+Raiganj to Ranaghat,NBSTC-RAI-KOL-R1-19:30,NON A/C Seater Push Back (2+2),2024-07-18 19:30:00,08h 45m,2024-07-18 04:15:00,4.2,278,"35 Seats available
+17 Window"
+Raiganj to Ranaghat,Lokenath Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 19:45:00,08h 25m,2024-07-18 04:10:00,3.4,350,12 Seats available
+Raiganj to Ranaghat,Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),2024-07-18 19:15:00,07h 55m,2024-07-18 03:10:00,2.4,665,"33 Seats available
+16 Window"
+Cooch Behar (West Bengal) to Farakka,NBSTC-COB-BHP-R1-19:00,Non AC Seater 2+2,2024-07-18 19:00:00,09h 30m,2024-07-18 04:30:00,4.9,367,"26 Seats available
+13 Window"
+Cooch Behar (West Bengal) to Siliguri,NBSTC-COB-FKT-SLG-06-15:30,Non AC Seater 2+2,2024-07-18 15:30:00,03h 30m,2024-07-18 19:00:00,2.8,119,"45 Seats available
+23 Window"

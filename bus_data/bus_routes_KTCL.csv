@@ -1,0 +1,288 @@
+bus_route_name,bus_name,bus_type,departure_time,duration,reaching_time,star_rating,price,seat_availability
+Pune to Goa,Kadamba Transport Corporation Limited (KTCL) - 89821,A/C Sleeper (2+1),2024-07-18 19:15:00,10h 35m,2024-07-18 05:50:00,3.8,800,"2 Seats available
+1 Single"
+Pune to Goa,Atmaram Gobus,VE A/C Sleeper (2+1),2024-07-18 22:30:00,10h 15m,2024-07-18 08:45:00,4.6,600,"13 Seats available
+4 Single"
+Pune to Goa,Ashray Travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 21:00:00,11h 30m,2024-07-18 08:30:00,4.6,647,21 Seats available
+Pune to Goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 21:45:00,10h 50m,2024-07-18 08:35:00,4.5,656,"22 Seats available
+7 Single"
+Pune to Goa,Ashray Amrutyog,A/C Sleeper (2+1),2024-07-18 22:00:00,11h 30m,2024-07-18 09:30:00,4.5,648,"5 Seats available
+3 Window"
+Pune to Goa,Atmaram Gobus,VE A/C Sleeper (2+1),2024-07-18 21:00:00,10h 30m,2024-07-18 07:30:00,4.4,626,"15 Seats available
+2 Single"
+Pune to Goa,Ashray Vip Yellows,A/C Sleeper (2+1),2024-07-18 20:30:00,11h 30m,2024-07-18 08:00:00,4.4,648,10 Seats available
+Pune to Goa,Ashray Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 21:15:00,10h 30m,2024-07-18 07:45:00,4.5,399,32 Seats available
+Pune to Goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 23:00:00,11h 00m,2024-07-18 10:00:00,4.3,572,"16 Seats available
+1 Single"
+Pune to Goa,Zingbus Plus,VE A/C Sleeper (2+1),2024-07-18 23:55:00,11h 15m,2024-07-18 11:10:00,4.3,649,22 Seats available
+Pune to Goa,Ashray Grand,Volvo Multi-Axle A/C Sleeper (2+1),2024-07-18 23:05:00,10h 25m,2024-07-18 09:30:00,4.2,879,22 Seats available
+Pune to Goa,Atmaram Gobus,NON A/C Sleeper (2+1),2024-07-18 20:30:00,10h 30m,2024-07-18 07:00:00,4.4,550,"19 Seats available
+6 Single"
+Pune to Goa,Indumati Travels,A/C Sleeper (2+1),2024-07-18 22:20:00,10h 10m,2024-07-18 08:30:00,4.2,617,"11 Seats available
+2 Single"
+Pune to Goa,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),2024-07-18 20:00:00,11h 15m,2024-07-18 07:15:00,4.3,399,"20 Seats available
+1 Single"
+Pune to Goa,Ashray Divine,NON A/C Sleeper (1+2),2024-07-18 19:45:00,11h 00m,2024-07-18 06:45:00,4.1,554,15 Seats available
+Goa to Pune,Kadamba Transport Corporation Limited (KTCL) - 89820,A/C Sleeper (2+1),2024-07-18 19:00:00,12h 00m,2024-07-18 07:00:00,3.2,800,"15 Seats available
+3 Single"
+Goa to Pune,Atmaram Gobus,VE A/C Sleeper (2+1),2024-07-18 21:32:00,08h 50m,2024-07-18 06:22:00,4.8,599,"19 Seats available
+4 Single"
+Goa to Pune,Atmaram Gobus,VE A/C Sleeper (2+1),2024-07-18 22:30:00,10h 40m,2024-07-18 09:10:00,4.8,599,"23 Seats available
+7 Single"
+Goa to Pune,AdShreyash Travels,A/C Sleeper (2+1),2024-07-18 20:00:00,10h 00m,2024-07-18 06:00:00,3.5,477,"17 Seats available
+4 Single"
+Goa to Pune,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 21:35:00,12h 55m,2024-07-18 10:30:00,4.4,475,"26 Seats available
+8 Single"
+Goa to Pune,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 19:30:00,10h 05m,2024-07-18 05:35:00,4.6,600,"12 Seats available
+1 Single"
+Goa to Pune,Ashray Travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 22:30:00,11h 30m,2024-07-18 10:00:00,4.5,513,24 Seats available
+Goa to Pune,AdIndumati Travels,A/C Sleeper (2+1),2024-07-18 21:00:00,10h 00m,2024-07-18 07:00:00,4.0,523,"15 Seats available
+5 Single"
+Goa to Pune,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 18:10:00,11h 10m,2024-07-18 05:20:00,4.5,630,"13 Seats available
+2 Single"
+Goa to Pune,Atmaram Travels(M.Dev),A/C Sleeper (2+1),2024-07-18 22:00:00,09h 45m,2024-07-18 07:45:00,4.6,700,"22 Seats available
+6 Single"
+Goa to Pune,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 21:00:00,10h 05m,2024-07-18 07:05:00,4.4,600,"29 Seats available
+7 Single"
+Goa to Pune,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 20:00:00,11h 30m,2024-07-18 07:30:00,4.3,500,"20 Seats available
+7 Single"
+Goa to Pune,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 18:30:00,10h 55m,2024-07-18 05:25:00,4.4,600,"22 Seats available
+5 Single"
+Goa to Pune,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),2024-07-18 19:00:00,11h 30m,2024-07-18 06:30:00,4.4,399,"10 Seats available
+1 Single"
+Goa to Pune,Atmaram Gobus,NON A/C Sleeper (2+1),2024-07-18 20:01:00,10h 30m,2024-07-18 06:31:00,4.3,404,"13 Seats available
+4 Single"
+Mumbai to Goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 17:00:00,17h 00m,2024-07-18 10:00:00,4.5,572,"14 Seats available
+1 Single"
+Mumbai to Goa,Zingbus Plus,VE A/C Sleeper (2+1),2024-07-18 20:00:00,16h 25m,2024-07-18 12:25:00,4.7,751,11 Seats available
+Mumbai to Goa,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),2024-07-18 19:55:00,13h 40m,2024-07-18 09:35:00,4.4,799,"19 Seats available
+7 Single"
+Mumbai to Goa,AdIntrCity SmartBus,AC Sleeper (2+1),2024-07-18 19:15:00,14h 30m,2024-07-18 09:45:00,3.8,759,"19 Seats available
+6 Single"
+Mumbai to Goa,Zingbus Plus,VE A/C Sleeper (2+1),2024-07-18 18:00:00,17h 10m,2024-07-18 11:10:00,4.4,649,22 Seats available
+Mumbai to Goa,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 17:00:00,15h 15m,2024-07-18 08:15:00,4.3,702,"5 Seats available
+3 Single"
+Mumbai to Goa,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 16:00:00,16h 20m,2024-07-18 08:20:00,4.2,600,"12 Seats available
+3 Single"
+Mumbai to Goa,Dolphin Travel House (38),Bharat Benz A/C Sleeper (2+1),2024-07-18 15:30:00,17h 00m,2024-07-18 08:30:00,4.3,810,"13 Seats available
+3 Single"
+Mumbai to Goa,Mascot Travels(M.Dev),A/C Sleeper (2+1),2024-07-18 17:30:00,17h 15m,2024-07-18 10:45:00,4.0,585,19 Seats available
+Mumbai to Goa,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 20:55:00,13h 50m,2024-07-18 10:45:00,3.9,759,"13 Seats available
+3 Single"
+Mumbai to Goa,GANESH PRASAD TRAVELS,NON A/C Seater (2+2),2024-07-18 20:00:00,13h 55m,2024-07-18 09:55:00,New,2500,49 Seats available
+Mumbai to Goa,GANESH PRASAD TRAVELS,A/C Seater (2+2),2024-07-18 21:00:00,13h 55m,2024-07-18 10:55:00,New,2500,49 Seats available
+Mumbai to Goa,Konkan Travels National,NON A/C Sleeper (2+1),2024-07-18 19:25:00,14h 20m,2024-07-18 09:45:00,3.9,508,"13 Seats available
+2 Single"
+Mumbai to Goa,Konkan Travels National,A/C Sleeper (2+1),2024-07-18 18:00:00,16h 55m,2024-07-18 10:55:00,3.8,600,"20 Seats available
+5 Single"
+Mumbai to Goa,Dolphin travel house,A/C Sleeper (2+1),2024-07-18 17:45:00,17h 00m,2024-07-18 10:45:00,3.5,910,"9 Seats available
+4 Single"
+Goa to Mumbai,Kadamba Transport Corporation Limited (KTCL) - 116186,Volvo AC Seater 2+2,2024-07-18 18:30:00,13h 30m,2024-07-18 08:00:00,3.8,800,"25 Seats available
+10 Window"
+Goa to Mumbai,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 18:10:00,14h 55m,2024-07-18 09:05:00,4.5,665,"11 Seats available
+1 Single"
+Goa to Mumbai,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 19:30:00,14h 10m,2024-07-18 09:40:00,4.5,600,"12 Seats available
+1 Single"
+Goa to Mumbai,AdJolly Tours and Travels,VE A/C Sleeper (2+1),2024-07-18 18:25:00,12h 05m,2024-07-18 06:30:00,4.1,1499,"3 Seats available
+2 Window"
+Goa to Mumbai,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),2024-07-18 19:30:00,12h 40m,2024-07-18 08:10:00,4.4,699,"23 Seats available
+8 Single"
+Goa to Mumbai,Atmaram Travels(M.Dev),A/C Sleeper (2+1),2024-07-18 22:00:00,13h 50m,2024-07-18 11:50:00,4.3,700,"22 Seats available
+6 Single"
+Goa to Mumbai,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 18:30:00,14h 30m,2024-07-18 09:00:00,4.2,600,"22 Seats available
+5 Single"
+Goa to Mumbai,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 21:00:00,14h 20m,2024-07-18 11:20:00,4.2,600,"29 Seats available
+7 Single"
+Goa to Mumbai,Zingbus Plus,VE A/C Sleeper (2+1),2024-07-18 20:25:00,15h 25m,2024-07-18 11:50:00,4.5,567,19 Seats available
+Goa to Mumbai,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),2024-07-18 17:30:00,15h 55m,2024-07-18 09:25:00,4.2,626,"26 Seats available
+8 Single"
+Goa to Mumbai,Giroba Travels (Shree),A/C Sleeper (2+1),2024-07-18 16:30:00,14h 40m,2024-07-18 07:10:00,New,3000,29 Seats available
+Goa to Mumbai,GANESH PRASAD TRAVELS,A/C Seater (2+2),2024-07-18 17:20:00,15h 10m,2024-07-18 08:30:00,New,2500,49 Seats available
+Goa to Mumbai,GANESH PRASAD TRAVELS,NON A/C Seater (2+2),2024-07-18 16:20:00,15h 55m,2024-07-18 08:15:00,New,2000,49 Seats available
+Goa to Mumbai,Giroba Travels (Shree),A/C Seater Hi-Tech Push Back (2+2),2024-07-18 17:00:00,13h 10m,2024-07-18 06:10:00,New,2000,40 Seats available
+Goa to Mumbai,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),2024-07-18 15:15:00,14h 00m,2024-07-18 05:15:00,4.5,800,"5 Seats available
+5 Single"
+Pandharpur to Goa,Oops! No buses found.,,,,,,,
+Bangalore to Goa,Intercity travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 21:00:00,13h 15m,2024-07-18 10:15:00,4.6,2299,"2 Seats available
+1 Window"
+Bangalore to Goa,Sunrise Tours and Travels,A/C Sleeper (2+1),2024-07-18 21:20:00,12h 55m,2024-07-18 10:15:00,4.5,1799,"8 Seats available
+4 Window"
+Bangalore to Goa,Streamline tours and travels,A/C Sleeper (2+1),2024-07-18 21:15:00,13h 00m,2024-07-18 10:15:00,4.1,1950,"14 Seats available
+4 Single"
+Bangalore to Goa,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 20:30:00,13h 10m,2024-07-18 09:40:00,4.2,1490,"14 Seats available
+4 Single"
+Bangalore to Goa,Streamline tours and travels,A/C Sleeper (2+1),2024-07-18 22:20:00,12h 55m,2024-07-18 11:15:00,4.0,1910,"12 Seats available
+4 Single"
+Bangalore to Goa,Shanta Travels,NON A/C Sleeper (2+1),2024-07-18 19:30:00,12h 45m,2024-07-18 08:15:00,4.1,1010,"11 Seats available
+1 Single"
+Bangalore to Goa,Sea Bird Tourist,NON A/C Sleeper (2+1),2024-07-18 20:30:00,13h 30m,2024-07-18 10:00:00,3.5,800,12 Seats available
+Bangalore to Goa,Sea Bird Tourist,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-07-18 23:30:00,13h 00m,2024-07-18 12:30:00,3.4,700,"36 Seats available
+17 Window"
+Bangalore to Goa,Sea Bird Tourist,NON A/C Sleeper (2+1),2024-07-18 18:00:00,13h 00m,2024-07-18 07:00:00,3.3,800,9 Seats available
+Bangalore to Goa,Sugama Tourist,NON A/C Sleeper (2+1),2024-07-18 20:30:00,11h 15m,2024-07-18 07:45:00,3.5,950,4 Seats available
+Bangalore to Goa,Sea Bird Tourist,A/C Sleeper (2+1),2024-07-18 21:15:00,13h 00m,2024-07-18 10:15:00,2.9,1100,23 Seats available
+Bangalore to Goa,Sugama Tourist,NON A/C Sleeper (2+1),2024-07-18 20:30:00,12h 15m,2024-07-18 08:45:00,3.1,1000,4 Seats available
+Bangalore to Goa,Sea Bird Tourist,A/C Sleeper (2+1),2024-07-18 22:15:00,13h 00m,2024-07-18 11:15:00,2.6,1100,21 Seats available
+Bangalore to Goa,Sugama Tourist,NON A/C Sleeper (2+1),2024-07-18 20:30:00,11h 45m,2024-07-18 08:15:00,3.9,1000,4 Seats available
+Bangalore to Goa,Anand Travels,NON A/C Sleeper (2+1),2024-07-18 19:00:00,12h 00m,2024-07-18 07:00:00,3.0,910,"2 Seats available
+1 Single"
+Goa to Pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,2024-07-18 19:00:00,12h 00m,2024-07-18 07:00:00,3.2,735,"7 Seats available
+3 Window"
+Belagavi to Goa,S R Travels,NON A/C Sleeper (2+1),2024-07-18 01:00:00,05h 00m,2024-07-18 06:00:00,1.2,799,"1 Seat available
+1 Single"
+Goa to Bangalore,Kadamba Transport Corporation Limited (KTCL) - 5633,Volvo AC Seater 2+2,2024-07-18 18:30:00,14h 00m,2024-07-18 08:30:00,3.9,700,"24 Seats available
+9 Window"
+Goa to Bangalore,Intercity travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 18:00:00,13h 15m,2024-07-18 07:15:00,4.5,1099,"17 Seats available
+6 Single"
+Goa to Bangalore,Sunrise Tours and Travels,A/C Sleeper (2+1),2024-07-18 18:30:00,12h 40m,2024-07-18 07:10:00,4.4,999,"6 Seats available
+2 Window"
+Goa to Bangalore,Streamline tours and travels,A/C Sleeper (2+1),2024-07-18 18:00:00,12h 30m,2024-07-18 06:30:00,4.1,899,"23 Seats available
+7 Single"
+Goa to Bangalore,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 19:00:00,13h 35m,2024-07-18 08:35:00,4.2,1043,"9 Seats available
+3 Single"
+Goa to Bangalore,Streamline tours and travels,A/C Sleeper (2+1),2024-07-18 19:00:00,12h 30m,2024-07-18 07:30:00,4.1,899,"26 Seats available
+8 Single"
+Goa to Bangalore,Sea Bird Tourist,A/C Sleeper (2+1),2024-07-18 20:30:00,13h 00m,2024-07-18 09:30:00,3.4,900,24 Seats available
+Goa to Bangalore,Sugama Tourist,NON A/C Sleeper (2+1),2024-07-18 19:45:00,12h 00m,2024-07-18 07:45:00,3.3,900,"17 Seats available
+3 Single"
+Goa to Bangalore,Sea Bird Tourist,NON A/C Sleeper (2+1),2024-07-18 17:30:00,14h 00m,2024-07-18 07:30:00,3.2,700,16 Seats available
+Goa to Bangalore,Anand Travels,NON A/C Sleeper (2+1),2024-07-18 18:30:00,12h 15m,2024-07-18 06:45:00,2.5,610,"16 Seats available
+5 Single"
+Goa to Bangalore,Sugama Tourist,NON A/C Sleeper (2+1),2024-07-18 18:00:00,13h 45m,2024-07-18 07:45:00,4.7,900,"17 Seats available
+3 Single"
+Goa to Bangalore,Sea Bird Tourist,A/C Sleeper (2+1),2024-07-18 17:00:00,14h 00m,2024-07-18 07:00:00,1.9,900,25 Seats available
+Goa to Bangalore,Sugama Tourist,NON A/C Sleeper (2+1),2024-07-18 19:00:00,12h 45m,2024-07-18 07:45:00,2.7,900,"20 Seats available
+6 Single"
+Goa to Bangalore,Sea Bird Tourist,NON A/C Sleeper (2+1),2024-07-18 18:30:00,14h 00m,2024-07-18 08:30:00,2.9,700,24 Seats available
+Goa to Bangalore,Janatha Travels,NON A/C Sleeper (2+1),2024-07-18 19:00:00,11h 35m,2024-07-18 06:35:00,3.5,12345,"17 Seats available
+5 Single"
+Solapur to Goa,Humsafar Travels,A/C Sleeper (2+1),2024-07-18 23:30:00,09h 30m,2024-07-18 09:00:00,3.3,1350,"9 Seats available
+1 Single"
+Solapur to Goa,S R Travels,A/C Seater/Sleeper (2+1),2024-07-18 18:45:00,12h 15m,2024-07-18 07:00:00,2.9,800,1 Seat available
+Goa to Kolhapur(Maharashtra),Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,2024-07-18 19:00:00,07h 30m,2024-07-18 02:30:00,3.4,420,"7 Seats available
+3 Window"
+Goa to Kolhapur(Maharashtra),Shri Ganesh Travels,A/C Seater (2+2),2024-07-18 15:30:00,04h 30m,2024-07-18 20:00:00,3.2,999,"31 Seats available
+15 Window"
+Goa to Kolhapur(Maharashtra),Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),2024-07-18 16:30:00,06h 30m,2024-07-18 23:00:00,3.3,650,"22 Seats available
+6 Single"
+Goa to Kolhapur(Maharashtra),IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 16:30:00,06h 00m,2024-07-18 22:30:00,4.1,550,"13 Seats available
+8 Single"
+Goa to Kolhapur(Maharashtra),Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),2024-07-18 17:30:00,06h 10m,2024-07-18 23:40:00,3.3,626,"26 Seats available
+8 Single"
+Goa to Kolhapur(Maharashtra),Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 18:10:00,06h 05m,2024-07-18 00:15:00,4.6,632,"13 Seats available
+2 Single"
+Goa to Kolhapur(Maharashtra),IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 18:30:00,06h 15m,2024-07-18 00:45:00,4.5,600,"22 Seats available
+5 Single"
+Goa to Kolhapur(Maharashtra),Atmaram Travels Goa,A/C Sleeper (2+1),2024-07-18 19:00:00,06h 45m,2024-07-18 01:45:00,4.1,606,"27 Seats available
+11 Single"
+Goa to Kolhapur(Maharashtra),Amrutyog Travels,A/C Sleeper (2+1),2024-07-18 19:00:00,07h 30m,2024-07-18 02:30:00,4.5,555,"17 Seats available
+2 Single"
+Goa to Kolhapur(Maharashtra),PSR Travels Goa,A/C Sleeper (2+1),2024-07-18 19:15:00,05h 45m,2024-07-18 01:00:00,3.6,599,"27 Seats available
+8 Single"
+Goa to Kolhapur(Maharashtra),IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 19:30:00,05h 40m,2024-07-18 01:10:00,4.9,600,"13 Seats available
+2 Single"
+Goa to Kolhapur(Maharashtra),Laxmi Queen Prime,A/C Sleeper (2+1),2024-07-18 19:30:00,06h 00m,2024-07-18 01:30:00,3.9,699,"22 Seats available
+8 Single"
+Goa to Kolhapur(Maharashtra),Vaibhav Travels,A/C Sleeper (2+1),2024-07-18 20:00:00,10h 12m,2024-07-18 06:12:00,3.6,475,"26 Seats available
+2 Single"
+Goa to Kolhapur(Maharashtra),IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 20:00:00,07h 15m,2024-07-18 03:15:00,4.5,500,"20 Seats available
+7 Single"
+Goa to Kolhapur(Maharashtra),Shreyash Travels,A/C Sleeper (2+1),2024-07-18 20:00:00,05h 00m,2024-07-18 01:00:00,3.2,477,"17 Seats available
+4 Single"
+Goa to Solapur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,2024-07-18 19:00:00,13h 30m,2024-07-18 08:30:00,2.8,850,"7 Seats available
+3 Window"
+Goa to Solapur,Humsafar Travels,A/C Sleeper (2+1),2024-07-18 19:00:00,09h 30m,2024-07-18 04:30:00,3.9,1035,"16 Seats available
+4 Single"
+Goa to Solapur,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 16:30:00,11h 30m,2024-07-18 04:00:00,4.6,899,"11 Seats available
+6 Single"
+Goa to Solapur,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 15:30:00,11h 30m,2024-07-18 03:00:00,4.2,899,"7 Seats available
+5 Window"
+Goa to Solapur,S R Travels,A/C Seater/Sleeper (2+1),2024-07-18 20:30:00,11h 00m,2024-07-18 07:30:00,2.3,700,31 Seats available
+Goa to Solapur,Sharma Travels,AC Sleeper (2+1),2024-07-18 15:10:00,10h 50m,2024-07-18 02:00:00,3.8,1300,"15 Seats available
+2 Single"
+Goa to Sangola (Solapur),Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,2024-07-18 19:00:00,11h 05m,2024-07-18 06:05:00,3.3,675,"7 Seats available
+3 Window"
+Goa to Sangola (Solapur),Humsafar Travels,A/C Sleeper (2+1),2024-07-18 19:00:00,07h 00m,2024-07-18 02:00:00,3.1,1035,"23 Seats available
+9 Single"
+Sangola (Solapur) to Goa,Oops! No buses found.,,,,,,,
+Calangute (goa) to Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),2024-07-18 15:30:00,01h 45m,2024-07-18 17:15:00,4.0,200,"41 Seats available
+19 Window"
+Calangute (goa) to Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 99719,AC Seater (2+2),2024-07-18 18:30:00,01h 30m,2024-07-18 20:00:00,4.8,200,"42 Seats available
+20 Window"
+Goa to Sangli,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,2024-07-18 19:00:00,09h 00m,2024-07-18 04:00:00,3.8,490,"7 Seats available
+3 Window"
+Goa to Sangli,Humsafar Travels,A/C Sleeper (2+1),2024-07-18 19:00:00,06h 30m,2024-07-18 01:30:00,4.0,1035,"17 Seats available
+5 Single"
+Goa to Sangli,Vaibhav Travels,A/C Sleeper (2+1),2024-07-18 20:00:00,09h 40m,2024-07-18 05:40:00,3.5,475,"26 Seats available
+2 Single"
+Calangute (goa) to Mopa Airport,Oops! No buses found.,,,,,,,
+Mopa Airport to Calangute (goa),Kadamba Transport Corporation Limited (KTCL) - 160437,A/C Seater (2+3),2024-07-18 17:30:00,01h 10m,2024-07-18 18:40:00,4.3,200,"47 Seats available
+20 Window"
+Ponda to Belagavi,Oops! No buses found.,,,,,,,
+Goa to Miraj,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,2024-07-18 19:00:00,09h 30m,2024-07-18 04:30:00,2.6,505,"7 Seats available
+3 Window"
+Goa to Miraj,Vaibhav Travels,A/C Sleeper (2+1),2024-07-18 20:00:00,09h 42m,2024-07-18 05:42:00,3.6,475,"26 Seats available
+2 Single"
+Goa to Miraj,Humsafar Travels,A/C Sleeper (2+1),2024-07-18 19:00:00,06h 30m,2024-07-18 01:30:00,4.0,1035,"17 Seats available
+5 Single"
+Goa to Miraj,Sharma Travels,AC Sleeper (2+1),2024-07-18 15:10:00,07h 50m,2024-07-18 23:00:00,3.8,1200,"16 Seats available
+3 Single"
+Goa Airport to Calangute (goa),Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater (2+2),2024-07-18 16:00:00,01h 30m,2024-07-18 17:30:00,4.5,200,"42 Seats available
+20 Window"
+Marcel to Belagavi,Oops! No buses found.,,,,,,,
+Shivamogga to Goa,Sea Bird Tourist,NON A/C Sleeper (2+1),2024-07-18 23:45:00,08h 15m,2024-07-18 08:00:00,4.6,700,29 Seats available
+Goa to Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 158967,A/C Seater (2+3),2024-07-18 15:55:00,01h 05m,2024-07-18 17:00:00,3.6,200,"46 Seats available
+20 Window"
+Goa to Satara,Atmaram Gobus,VE A/C Sleeper (2+1),2024-07-18 22:30:00,07h 40m,2024-07-18 06:10:00,4.8,599,"23 Seats available
+7 Single"
+Goa to Satara,IntrCity SmartBus,AC Sleeper (2+1),2024-07-18 20:00:00,09h 25m,2024-07-18 05:25:00,4.7,500,"20 Seats available
+7 Single"
+Goa to Satara,Ashray Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),2024-07-18 21:00:00,09h 30m,2024-07-18 06:30:00,4.4,600,20 Seats available
+Goa to Satara,Ashray Grand,Volvo Multi-Axle A/C Sleeper (2+1),2024-07-18 22:00:00,09h 30m,2024-07-18 07:30:00,4.2,740,1 Seat available
+Goa to Satara,Ashray Travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 22:30:00,09h 30m,2024-07-18 08:00:00,4.4,513,24 Seats available
+Goa to Satara,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),2024-07-18 21:35:00,09h 00m,2024-07-18 06:35:00,4.1,424,"27 Seats available
+7 Single"
+Goa to Satara,Atmaram Gobus,NON A/C Sleeper (2+1),2024-07-18 20:01:00,09h 40m,2024-07-18 05:41:00,4.4,404,"13 Seats available
+4 Single"
+Goa to Satara,Amrutyog Travels,A/C Sleeper (2+1),2024-07-18 19:00:00,10h 00m,2024-07-18 05:00:00,4.4,399,"20 Seats available
+4 Single"
+Goa to Satara,Atmaram Gobus,NON A/C Sleeper (2+1),2024-07-18 21:02:00,09h 15m,2024-07-18 06:17:00,4.6,450,"16 Seats available
+5 Single"
+Goa to Satara,Atmaram Travels(KVT Narmada Red),Bharat Benz A/C Sleeper (2+1),2024-07-18 21:16:00,08h 45m,2024-07-18 06:01:00,4.0,440,"14 Seats available
+2 Single"
+Belagavi to Marcel,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater 2+2,2024-07-18 16:00:00,02h 45m,2024-07-18 18:45:00,3.3,140,20 Seats available
+Mopa Airport to Goa,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),2024-07-18 16:00:00,02h 00m,2024-07-18 18:00:00,4.7,400,"47 Seats available
+20 Window"
+Mopa Airport to Goa,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),2024-07-18 16:00:00,00h 25m,2024-07-18 16:25:00,3.7,150,"47 Seats available
+20 Window"
+Mopa Airport to Goa,Kadamba Transport Corporation Limited (KTCL) - 160437,A/C Seater (2+3),2024-07-18 17:30:00,00h 30m,2024-07-18 18:00:00,3.7,150,"47 Seats available
+20 Window"
+Shirdi to Goa,PSR Travels Goa,A/C Sleeper (2+1),2024-07-18 18:00:00,15h 00m,2024-07-18 09:00:00,3.6,1199,"13 Seats available
+2 Single"
+Shirdi to Goa,Humsafar Travels,A/C Sleeper (2+1),2024-07-18 16:00:00,17h 00m,2024-07-18 09:00:00,3.3,1215,"9 Seats available
+1 Single"
+Goa to Shivamogga,Oops! No buses found.,,,,,,,
+Goa to Shirdi,PSR Travels Goa,A/C Sleeper (2+1),2024-07-18 19:15:00,14h 45m,2024-07-18 10:00:00,3.8,1099,"17 Seats available
+6 Single"
+Goa to Shirdi,Humsafar Travels,A/C Sleeper (2+1),2024-07-18 19:00:00,16h 00m,2024-07-18 11:00:00,1.8,1035,"15 Seats available
+3 Single"
+Goa to Goa Airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),2024-07-18 16:01:00,01h 14m,2024-07-18 17:15:00,3.7,150,"41 Seats available
+19 Window"
+Margao to Mopa Airport,Kadamba Transport Corporation Limited (KTCL) - 158967,A/C Seater (2+3),2024-07-18 15:55:00,01h 05m,2024-07-18 17:00:00,3.6,200,"46 Seats available
+20 Window"
+Goa Airport to Goa,Oops! No buses found.,,,,,,,
+Mopa Airport to Margao,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),2024-07-18 16:00:00,02h 00m,2024-07-18 18:00:00,4.7,400,"47 Seats available
+20 Window"
+Mopa Airport to Margao,Kadamba Transport Corporation Limited (KTCL) - 159015,A/C Seater (2+3),2024-07-18 16:00:00,00h 25m,2024-07-18 16:25:00,3.7,150,"47 Seats available
+20 Window"
+Mopa Airport to Margao,Kadamba Transport Corporation Limited (KTCL) - 160437,A/C Seater (2+3),2024-07-18 17:30:00,00h 30m,2024-07-18 18:00:00,3.7,150,"47 Seats available
+20 Window"
+Belagavi to Saquelim,Kadamba Transport Corporation Limited (KTCL) - 6020,Non AC Seater 2+2,2024-07-18 16:00:00,02h 15m,2024-07-18 18:15:00,3.7,140,20 Seats available
+Panaji to Mopa Airport,Oops! No buses found.,,,,,,,
+Saquelim to Belagavi,Oops! No buses found.,,,,,,,
+Calangute (goa) to Goa,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),2024-07-18 15:30:00,00h 31m,2024-07-18 16:01:00,3.7,100,"41 Seats available
+19 Window"
+Calangute (goa) to Panaji,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),2024-07-18 15:30:00,00h 30m,2024-07-18 16:00:00,3.7,100,"41 Seats available
+19 Window"
+Goa Airport to Panaji,Kadamba Transport Corporation Limited (KTCL) - 99710,AC Seater (2+2),2024-07-18 16:00:00,01h 00m,2024-07-18 17:00:00,4.0,150,"42 Seats available
+20 Window"

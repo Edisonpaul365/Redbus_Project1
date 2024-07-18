@@ -1,0 +1,460 @@
+bus_route_name,bus_name,bus_type,departure_time,duration,reaching_time,star_rating,price,seat_availability
+Jodhpur to Ajmer,B.R. Travels,AC Sleeper (2+1),2024-07-18 18:30:00,04h 30m,2024-07-18 23:00:00,New,599,20 Seats available
+Jodhpur to Ajmer,V k jain travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 18:35:00,04h 50m,2024-07-18 23:25:00,3.0,400,"34 Seats available
+10 Single"
+Jodhpur to Ajmer,FlixBus,A/C Sleeper (2+1),2024-07-18 19:00:00,04h 50m,2024-07-18 23:50:00,5.0,104,20 Seats available
+Jodhpur to Ajmer,Chanakya Travels Agency,NON A/C Seater/ Sleeper (2+1),2024-07-18 20:30:00,04h 45m,2024-07-18 01:15:00,3.8,500,37 Seats available
+Jodhpur to Ajmer,Gorsiya Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:16:00,05h 00m,2024-07-18 02:16:00,3.5,400,"29 Seats available
+4 Single"
+Jodhpur to Ajmer,Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,06h 00m,2024-07-18 03:45:00,3.6,400,"37 Seats available
+10 Single"
+Jodhpur to Ajmer,Deepak Travells,NON AC Seater / Sleeper 2+1,2024-07-18 21:50:00,07h 10m,2024-07-18 05:00:00,3.3,500,"40 Seats available
+5 Single"
+Jodhpur to Ajmer,Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),2024-07-18 22:15:00,04h 40m,2024-07-18 02:55:00,3.6,400,"37 Seats available
+10 Single"
+Jodhpur to Ajmer,Chouhan Tour and Travel,A/C Seater / Sleeper (2+2),2024-07-18 22:26:00,04h 45m,2024-07-18 03:11:00,3.5,650,"33 Seats available
+21 Window"
+Jodhpur to Ajmer,Swagat Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:42:00,04h 08m,2024-07-18 02:50:00,3.4,400,"46 Seats available
+28 Window"
+Jodhpur to Ajmer,Shre Ganesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:45:00,04h 30m,2024-07-18 03:15:00,3.2,500,"34 Seats available
+10 Single"
+Jodhpur to Ajmer,Bhagwati Travels and Tours,A/C Seater/Sleeper (2+1),2024-07-18 23:30:00,04h 30m,2024-07-18 04:00:00,4.0,400,"33 Seats available
+5 Single"
+Jodhpur to Ajmer,Gorsiya Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:40:00,04h 35m,2024-07-18 04:15:00,3.5,550,"35 Seats available
+22 Window"
+Jodhpur to Ajmer,Shri Ganesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:55:00,04h 35m,2024-07-18 04:30:00,3.8,450,"38 Seats available
+10 Single"
+Jodhpur to Ajmer,Shre Ganesh Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:59:00,04h 16m,2024-07-18 04:15:00,3.2,600,"38 Seats available
+10 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Jain travels regd,A/C Seater / Sleeper (2+1),2024-07-18 17:20:00,03h 25m,2024-07-18 20:45:00,3.5,300,"34 Seats available
+22 Window"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Jain travels regd,AC Sleeper (2+1),2024-07-18 18:15:00,04h 00m,2024-07-18 22:15:00,3.5,500,"34 Seats available
+22 Window"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 19:30:00,03h 30m,2024-07-18 23:00:00,3.5,350,"41 Seats available
+27 Window"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Devraj Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:20:00,02h 39m,2024-07-18 23:59:00,3.5,500,"38 Seats available
+5 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Jain travels regd,NON AC Seater/ Sleeper (2+1),2024-07-18 21:45:00,03h 30m,2024-07-18 01:15:00,3.5,300,"42 Seats available
+6 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Dashmesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,03h 30m,2024-07-18 01:15:00,3.5,600,31 Seats available
+Beawar (Rajasthan) to Jaipur (Rajasthan),Pandit Travels,NON AC Seater / Sleeper 2+1,2024-07-18 21:45:00,03h 30m,2024-07-18 01:15:00,3.9,500,"36 Seats available
+5 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 22:21:00,03h 36m,2024-07-18 01:57:00,3.5,400,"40 Seats available
+26 Window"
+Beawar (Rajasthan) to Jaipur (Rajasthan),V k jain travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 22:25:00,04h 00m,2024-07-18 02:25:00,3.0,500,"34 Seats available
+10 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 22:55:00,02h 50m,2024-07-18 01:45:00,3.5,350,"42 Seats available
+6 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),FlixBus,A/C Sleeper (2+1),2024-07-18 23:00:00,03h 25m,2024-07-18 02:25:00,3.6,157,13 Seats available
+Beawar (Rajasthan) to Jaipur (Rajasthan),Sagwan Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,03h 13m,2024-07-18 02:43:00,3.4,475,"35 Seats available
+5 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Dashmesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,03h 30m,2024-07-18 03:00:00,3.5,600,"33 Seats available
+6 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:40:00,03h 35m,2024-07-18 03:15:00,3.9,599,"38 Seats available
+5 Single"
+Beawar (Rajasthan) to Jaipur (Rajasthan),Tiger Travels,A/C Sleeper (2+1),2024-07-18 23:45:00,03h 45m,2024-07-18 03:30:00,4.5,550,"28 Seats available
+6 Single"
+Udaipur to Jodhpur,Shree Devnarayan Travels,Bharat Benz A/C Seater (2+1),2024-07-18 17:00:00,04h 30m,2024-07-18 21:30:00,4.4,550,"11 Seats available
+1 Single"
+Udaipur to Jodhpur,M R Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-07-18 17:10:00,04h 45m,2024-07-18 21:55:00,4.3,475,34 Seats available
+Udaipur to Jodhpur,Jakhar Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,06h 30m,2024-07-18 04:30:00,3.9,457,"17 Seats available
+1 Single"
+Udaipur to Jodhpur,Jain travels regd,A/C Seater / Sleeper (2+1),2024-07-18 21:30:00,07h 00m,2024-07-18 04:30:00,3.8,460,"16 Seats available
+7 Window"
+Udaipur to Jodhpur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 22:00:00,06h 00m,2024-07-18 04:00:00,3.5,350,"41 Seats available
+4 Single"
+Udaipur to Jodhpur,Rishabh Travels Milan,A/C Seater / Sleeper (2+1),2024-07-18 21:00:00,05h 15m,2024-07-18 02:15:00,3.9,500,"24 Seats available
+1 Single"
+Udaipur to Jodhpur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 22:15:00,06h 45m,2024-07-18 05:00:00,3.5,350,"23 Seats available
+5 Single"
+Udaipur to Jodhpur,Jain Parshwanath Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:31:00,06h 27m,2024-07-18 04:58:00,2.0,354.29,"31 Seats available
+19 Window"
+Udaipur to Jodhpur,M R Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:30:00,06h 30m,2024-07-18 06:00:00,3.0,360,"40 Seats available
+7 Single"
+Udaipur to Jodhpur,Kalpana Travels,NON AC Seater / Sleeper 2+1,2024-07-18 22:00:00,06h 54m,2024-07-18 04:54:00,3.8,300,21 Seats available
+Udaipur to Jodhpur,Ravi Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 23:00:00,06h 45m,2024-07-18 05:45:00,2.5,400,"37 Seats available
+5 Single"
+Udaipur to Jodhpur,Jain Parshwanath Travels,NON AC Seater / Sleeper 2+1,2024-07-18 22:15:00,06h 27m,2024-07-18 04:42:00,2.5,350,21 Seats available
+Udaipur to Jodhpur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 16:00:00,06h 00m,2024-07-18 22:00:00,2.4,350,"35 Seats available
+6 Single"
+Udaipur to Jodhpur,Chandra Travels (Apex Chandra Pvt Ltd),NON AC Seater / Sleeper 2+1,2024-07-18 22:30:00,06h 00m,2024-07-18 04:30:00,2.0,350,"20 Seats available
+12 Window"
+Udaipur to Jodhpur,Jain travels regd,AC Sleeper (2+1),2024-07-18 17:45:00,06h 00m,2024-07-18 23:45:00,3.6,600,14 Seats available
+Jaipur (Rajasthan) to Jodhpur,Gajraj Travels,A/C Sleeper (2+1),2024-07-18 22:15:00,07h 20m,2024-07-18 05:35:00,4.6,600,"9 Seats available
+5 Window"
+Jaipur (Rajasthan) to Jodhpur,Jain travels regd,AC Sleeper (2+1),2024-07-18 22:30:00,06h 35m,2024-07-18 05:05:00,4.5,600,"8 Seats available
+5 Window"
+Jaipur (Rajasthan) to Jodhpur,M R Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,07h 00m,2024-07-18 05:30:00,4.4,500,"21 Seats available
+11 Window"
+Jaipur (Rajasthan) to Jodhpur,Jain travels regd,A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,07h 00m,2024-07-18 05:00:00,4.1,450,"21 Seats available
+12 Window"
+Jaipur (Rajasthan) to Jodhpur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 21:45:00,07h 15m,2024-07-18 05:00:00,4.0,350,"31 Seats available
+5 Single"
+Jaipur (Rajasthan) to Jodhpur,Jakhar Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,07h 00m,2024-07-18 05:30:00,4.0,429,"18 Seats available
+4 Single"
+Jaipur (Rajasthan) to Jodhpur,M R Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:25:00,06h 45m,2024-07-18 06:10:00,4.0,500,"17 Seats available
+8 Window"
+Jaipur (Rajasthan) to Jodhpur,Jakhar Travels,A/C Sleeper (2+1),2024-07-18 21:00:00,06h 50m,2024-07-18 03:50:00,3.2,600,"11 Seats available
+1 Single"
+Jaipur (Rajasthan) to Jodhpur,Jain travels regd,NON AC Seater/ Sleeper (2+1),2024-07-18 23:15:00,07h 15m,2024-07-18 06:30:00,2.9,400,"30 Seats available
+5 Single"
+Jaipur (Rajasthan) to Jodhpur,Jakhar Travels And Cargo,A/C Sleeper (2+1),2024-07-18 21:00:00,06h 40m,2024-07-18 03:40:00,3.0,600,"15 Seats available
+2 Single"
+Sikar to Jaipur (Rajasthan),Salasar Darshan Travels,Non AC Seater (2+3),2024-07-18 16:50:00,02h 20m,2024-07-18 19:10:00,3.4,260,"56 Seats available
+22 Window"
+Sikar to Jaipur (Rajasthan),Vijay Tour and Travels,A/C Seater / Sleeper (2+1),2024-07-18 18:45:00,02h 55m,2024-07-18 21:40:00,3.5,324,17 Seats available
+Sikar to Jaipur (Rajasthan),Jai Shrinath Ji Ki ® Travels,A/C Sleeper (2+1),2024-07-18 20:00:00,02h 30m,2024-07-18 22:30:00,3.9,210.48,"29 Seats available
+9 Single"
+Sikar to Jaipur (Rajasthan),Neeraj travels,A/C Seater / Sleeper (2+1),2024-07-18 20:40:00,02h 40m,2024-07-18 23:20:00,3.5,350,"34 Seats available
+10 Single"
+Sikar to Jaipur (Rajasthan),Dashmesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:00:00,02h 00m,2024-07-18 23:00:00,3.5,370,"38 Seats available
+8 Single"
+Kishangarh to Jaipur (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 15:45:00,02h 45m,2024-07-18 18:30:00,3.9,250,"36 Seats available
+5 Single"
+Kishangarh to Jaipur (Rajasthan),Rinku Travels,A/C Seater / Sleeper (2+1),2024-07-18 17:30:00,03h 30m,2024-07-18 21:00:00,3.1,350,42 Seats available
+Kishangarh to Jaipur (Rajasthan),Jain travels regd,A/C Seater / Sleeper (2+1),2024-07-18 18:45:00,02h 00m,2024-07-18 20:45:00,3.9,300,"40 Seats available
+26 Window"
+Kishangarh to Jaipur (Rajasthan),Jain travels regd,AC Sleeper (2+1),2024-07-18 19:50:00,02h 25m,2024-07-18 22:15:00,3.9,300,"34 Seats available
+22 Window"
+Kishangarh to Jaipur (Rajasthan),Jain travels regd,NON AC Seater/ Sleeper (2+1),2024-07-18 23:15:00,02h 00m,2024-07-18 01:15:00,3.9,250,"42 Seats available
+6 Single"
+Kishangarh to Jaipur (Rajasthan),Rathi Travels Agency,NON A/C Sleeper (2+1),2024-07-18 19:53:00,02h 00m,2024-07-18 21:53:00,2.9,213,"49 Seats available
+24 Window"
+Kishangarh to Jaipur (Rajasthan),SHAGUN CARGO & TRAVELS,NON A/C Seater/ Sleeper (2+1),2024-07-18 20:00:00,02h 15m,2024-07-18 22:15:00,2.5,370,"32 Seats available
+10 Single"
+Kishangarh to Jaipur (Rajasthan),Raaj Rath Travels Co.,A/C Seater / Sleeper (2+1),2024-07-18 17:45:00,03h 30m,2024-07-18 21:15:00,3.5,550,"34 Seats available
+10 Single"
+Kishangarh to Jaipur (Rajasthan),Rinku Travels,NON A/C Sleeper (2+1),2024-07-18 18:15:00,02h 45m,2024-07-18 21:00:00,3.1,650,31 Seats available
+Kishangarh to Jaipur (Rajasthan),Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:30:00,03h 00m,2024-07-18 21:30:00,3.8,399,"22 Seats available
+3 Single"
+Kishangarh to Jaipur (Rajasthan),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Seater/Sleeper (2+1),2024-07-18 18:30:00,03h 00m,2024-07-18 21:30:00,3.8,1109,"9 Seats available
+3 Single"
+Kishangarh to Jaipur (Rajasthan),Shri Charbhuja Travels (A Unit Of Bala Agri..),A/C Seater / Sleeper (2+1),2024-07-18 18:36:00,02h 15m,2024-07-18 20:51:00,3.6,952.38,"41 Seats available
+12 Single"
+Kishangarh to Jaipur (Rajasthan),Mahadev Travels(pipar),AC Sleeper (2+1),2024-07-18 18:46:00,02h 30m,2024-07-18 21:16:00,4.2,1714.29,"36 Seats available
+12 Single"
+Kishangarh to Jaipur (Rajasthan),Shre Ganesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:00:00,02h 00m,2024-07-18 21:00:00,3.2,1200,"40 Seats available
+6 Single"
+Kishangarh to Jaipur (Rajasthan),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),2024-07-18 19:00:00,03h 00m,2024-07-18 22:00:00,3.8,1387,"40 Seats available
+6 Single"
+Aligarh (uttar pradesh) to Jaipur (Rajasthan),Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:55:00,07h 05m,2024-07-18 07:00:00,3.3,599,"22 Seats available
+3 Single"
+Aligarh (uttar pradesh) to Jaipur (Rajasthan),Rinku Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:30:00,07h 50m,2024-07-18 05:20:00,4.1,400,"10 Seats available
+6 Window"
+Aligarh (uttar pradesh) to Jaipur (Rajasthan),Rinku Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:15:00,08h 45m,2024-07-18 06:00:00,3.8,400,"30 Seats available
+5 Single"
+Aligarh (uttar pradesh) to Jaipur (Rajasthan),SHAGUN CARGO & TRAVELS,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:55:00,05h 50m,2024-07-18 05:45:00,2.0,555,"21 Seats available
+6 Single"
+Aligarh (uttar pradesh) to Jaipur (Rajasthan),SHAGUN CARGO & TRAVELS,NON A/C Seater/ Sleeper (2+1),2024-07-18 22:30:00,06h 30m,2024-07-18 05:00:00,2.0,833,"32 Seats available
+10 Single"
+Jodhpur to Beawar (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 15:30:00,04h 00m,2024-07-18 19:30:00,3.9,270,"41 Seats available
+27 Window"
+Jodhpur to Beawar (Rajasthan),M R Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 15:30:00,04h 00m,2024-07-18 19:30:00,3.8,400,"41 Seats available
+6 Single"
+Jodhpur to Beawar (Rajasthan),Jain travels regd,NON AC Seater/ Sleeper (2+1),2024-07-18 17:00:00,04h 45m,2024-07-18 21:45:00,3.9,270,"42 Seats available
+6 Single"
+Jodhpur to Beawar (Rajasthan),M R Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 17:00:00,04h 25m,2024-07-18 21:25:00,3.8,400,"37 Seats available
+4 Single"
+Jodhpur to Beawar (Rajasthan),M R Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 17:55:00,04h 20m,2024-07-18 22:15:00,3.8,400,"46 Seats available
+11 Single"
+Jodhpur to Beawar (Rajasthan),CHANDRA RAJ TRAVELS,A/C Seater / Sleeper (2+1),2024-07-18 18:15:00,03h 00m,2024-07-18 21:15:00,3.2,500,"40 Seats available
+26 Window"
+Jodhpur to Beawar (Rajasthan),M R Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 18:30:00,04h 00m,2024-07-18 22:30:00,3.8,450,"38 Seats available
+6 Single"
+Jodhpur to Beawar (Rajasthan),V k jain travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 18:35:00,03h 50m,2024-07-18 22:25:00,3.0,400,"24 Seats available
+7 Single"
+Jodhpur to Beawar (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 19:00:00,03h 55m,2024-07-18 22:55:00,3.9,270,"42 Seats available
+6 Single"
+Jodhpur to Beawar (Rajasthan),FlixBus,A/C Sleeper (2+1),2024-07-18 19:00:00,04h 00m,2024-07-18 23:00:00,3.6,99,27 Seats available
+Jodhpur to Beawar (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 19:00:00,03h 21m,2024-07-18 22:21:00,3.9,270,"40 Seats available
+26 Window"
+Jodhpur to Beawar (Rajasthan),CHANDRA RAJ TRAVELS,A/C Seater / Sleeper (2+1),2024-07-18 19:00:00,05h 45m,2024-07-18 00:45:00,3.2,352.38,41 Seats available
+Jodhpur to Beawar (Rajasthan),M R Travels,A/C Sleeper (2+1),2024-07-18 19:30:00,04h 00m,2024-07-18 23:30:00,3.8,500,25 Seats available
+Jodhpur to Beawar (Rajasthan),M R Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 20:25:00,03h 30m,2024-07-18 23:55:00,3.8,450,"46 Seats available
+11 Single"
+Jodhpur to Beawar (Rajasthan),SHRI VISHWAKARMA TRAVELS (KETU),Non A/C Seater / Sleeper (2+1),2024-07-18 20:30:00,04h 45m,2024-07-18 01:15:00,3.5,500,40 Seats available
+Kota(Rajasthan) to Jaipur (Rajasthan),Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:00:00,04h 40m,2024-07-18 22:40:00,4.2,323,"25 Seats available
+2 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 17:00:00,05h 15m,2024-07-18 22:15:00,4.0,308,"17 Seats available
+1 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Babu Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:00:00,06h 05m,2024-07-18 05:05:00,3.3,300,"25 Seats available
+5 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Jakhar Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:00:00,06h 15m,2024-07-18 05:15:00,3.3,300,"21 Seats available
+4 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Babu Travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 18:25:00,04h 05m,2024-07-18 22:30:00,3.7,700,1 Seat available
+Kota(Rajasthan) to Jaipur (Rajasthan),Babu Travels,A/C Seater / Sleeper (2+1),2024-07-18 16:00:00,04h 30m,2024-07-18 20:30:00,3.7,450,"5 Seats available
+5 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),S.Nath Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:00:00,05h 45m,2024-07-18 04:45:00,2.8,333,"24 Seats available
+3 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Jai Shrinath Ji Ki ® Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 23:00:00,06h 00m,2024-07-18 05:00:00,2.4,300,"26 Seats available
+7 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Mahadev Travels Pilani,A/C Seater / Sleeper (2+1),2024-07-18 21:50:00,04h 35m,2024-07-18 02:25:00,1.8,350,"30 Seats available
+18 Window"
+Kota(Rajasthan) to Jaipur (Rajasthan),Navrang Travels,A/C Seater / Sleeper (2+1),2024-07-18 20:00:00,04h 40m,2024-07-18 00:40:00,1.4,315,"31 Seats available
+8 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Ganesh Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:50:00,05h 10m,2024-07-18 05:00:00,2.4,300,"31 Seats available
+19 Window"
+Kota(Rajasthan) to Jaipur (Rajasthan),Ganesh Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:59:00,05h 31m,2024-07-18 05:30:00,1.3,1000,"8 Seats available
+2 Window"
+Kota(Rajasthan) to Jaipur (Rajasthan),Jakhar Travels,Volvo Multi-Axle A/C Seater/Sleeper (2+1),2024-07-18 23:59:00,06h 01m,2024-07-18 06:00:00,3.3,500,32 Seats available
+Kota(Rajasthan) to Jaipur (Rajasthan),Jakhar Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:30:00,06h 00m,2024-07-18 05:30:00,4.4,300,"22 Seats available
+1 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Sangam Travels,AC Sleeper (2+1),2024-07-18 16:30:00,06h 30m,2024-07-18 23:00:00,3.4,500,"27 Seats available
+14 Window"
+Kota(Rajasthan) to Jaipur (Rajasthan),Jakhar Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,04h 15m,2024-07-18 02:00:00,2.8,400,"22 Seats available
+11 Window"
+Kota(Rajasthan) to Jaipur (Rajasthan),Samreen Travels,AC Sleeper (2+1),2024-07-18 19:00:00,04h 30m,2024-07-18 23:30:00,3.8,1050,"20 Seats available
+7 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Ganesh Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:30:00,05h 30m,2024-07-18 05:00:00,2.5,300,"27 Seats available
+2 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Ganesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:59:00,06h 16m,2024-07-18 06:15:00,1.8,550,"24 Seats available
+8 Single"
+Kota(Rajasthan) to Jaipur (Rajasthan),Babu Travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 00:30:00,04h 00m,2024-07-18 04:30:00,3.6,999,21 Seats available
+Jaipur (Rajasthan) to Kota(Rajasthan),Priya Bus Service,AC Seater (2+2),2024-07-18 17:25:00,04h 50m,2024-07-18 22:15:00,3.9,399,"29 Seats available
+14 Window"
+Jaipur (Rajasthan) to Kota(Rajasthan),Laxmi Shatabdi Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 22:30:00,06h 45m,2024-07-18 05:15:00,3.7,250,37 Seats available
+Jaipur (Rajasthan) to Kota(Rajasthan),Babu Travels,A/C Sleeper (2+1),2024-07-18 18:30:00,05h 12m,2024-07-18 23:42:00,4.0,600,"6 Seats available
+3 Single"
+Jaipur (Rajasthan) to Kota(Rajasthan),Jakhar Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,05h 30m,2024-07-18 03:30:00,4.0,500,"16 Seats available
+7 Window"
+Jaipur (Rajasthan) to Kota(Rajasthan),Jakhar Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:30:00,04h 25m,2024-07-18 23:55:00,3.9,1000,8 Seats available
+Pali (Rajasthan) to Udaipur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 16:30:00,06h 10m,2024-07-18 22:40:00,4.0,350,"42 Seats available
+6 Single"
+Pali (Rajasthan) to Udaipur,Ashok Travels Mandsaur Group,Non A/C Seater / Sleeper (2+1),2024-07-18 17:30:00,05h 30m,2024-07-18 23:00:00,3.8,400,"36 Seats available
+10 Single"
+Pali (Rajasthan) to Udaipur,M R Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-07-18 17:40:00,03h 20m,2024-07-18 21:00:00,4.6,475,31 Seats available
+Pali (Rajasthan) to Udaipur,Shree Devnarayan Travels,Bharat Benz A/C Seater (2+1),2024-07-18 18:10:00,03h 30m,2024-07-18 21:40:00,4.7,550,"19 Seats available
+4 Single"
+Pali (Rajasthan) to Udaipur,M R Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),2024-07-18 18:45:00,04h 00m,2024-07-18 22:45:00,4.0,650,36 Seats available
+Pali (Rajasthan) to Udaipur,Hans Travels (I) Private Limited,A/C Sleeper (2+1),2024-07-18 18:45:00,04h 30m,2024-07-18 23:15:00,3.2,400,20 Seats available
+Pali (Rajasthan) to Udaipur,Jain travels regd,A/C Seater / Sleeper (2+1),2024-07-18 19:15:00,04h 05m,2024-07-18 23:20:00,5.0,400,"40 Seats available
+24 Window"
+Pali (Rajasthan) to Udaipur,Gajraj Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 20:45:00,04h 30m,2024-07-18 01:15:00,4.4,400,"40 Seats available
+12 Single"
+Pali (Rajasthan) to Udaipur,Gajraj Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 21:30:00,04h 30m,2024-07-18 02:00:00,4.4,400,"29 Seats available
+7 Single"
+Pali (Rajasthan) to Udaipur,M R Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 21:45:00,04h 45m,2024-07-18 02:30:00,4.4,360,"32 Seats available
+5 Single"
+Pali (Rajasthan) to Udaipur,Gajraj Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,05h 20m,2024-07-18 03:50:00,4.4,360,"24 Seats available
+5 Single"
+Pali (Rajasthan) to Udaipur,CHANDRA RAJ TRAVELS,A/C Seater / Sleeper (2+1),2024-07-18 23:00:00,04h 45m,2024-07-18 03:45:00,3.2,460,"40 Seats available
+26 Window"
+Pali (Rajasthan) to Udaipur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 23:00:00,05h 40m,2024-07-18 04:40:00,4.0,360,"42 Seats available
+6 Single"
+Pali (Rajasthan) to Udaipur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 23:30:00,04h 50m,2024-07-18 04:20:00,4.0,360,44 Seats available
+Pali (Rajasthan) to Udaipur,Gajraj Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 23:34:00,05h 16m,2024-07-18 04:50:00,4.4,360,"19 Seats available
+6 Single"
+Udaipur to Pali (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 16:00:00,04h 40m,2024-07-18 20:40:00,3.6,300,"34 Seats available
+5 Single"
+Udaipur to Pali (Rajasthan),Shree Devnarayan Travels,Bharat Benz A/C Seater (2+1),2024-07-18 17:00:00,03h 35m,2024-07-18 20:35:00,4.5,550,"13 Seats available
+2 Single"
+Udaipur to Pali (Rajasthan),M R Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),2024-07-18 17:10:00,03h 50m,2024-07-18 21:00:00,4.9,475,37 Seats available
+Udaipur to Pali (Rajasthan),Jain travels regd,AC Sleeper (2+1),2024-07-18 17:45:00,04h 10m,2024-07-18 21:55:00,3.8,600,20 Seats available
+Udaipur to Pali (Rajasthan),Rishabh Travels Milan,A/C Seater / Sleeper (2+1),2024-07-18 21:00:00,03h 25m,2024-07-18 00:25:00,4.4,500,"28 Seats available
+3 Single"
+Udaipur to Pali (Rajasthan),R.S.Sodha Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:00:00,05h 00m,2024-07-18 02:00:00,3.6,600,"39 Seats available
+10 Single"
+Udaipur to Pali (Rajasthan),Jain travels regd,A/C Seater / Sleeper (2+1),2024-07-18 21:30:00,05h 25m,2024-07-18 02:55:00,3.8,460,"25 Seats available
+12 Window"
+Udaipur to Pali (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 22:00:00,04h 40m,2024-07-18 02:40:00,3.8,300,"49 Seats available
+6 Single"
+Udaipur to Pali (Rajasthan),Kalpana Travels,NON AC Seater / Sleeper 2+1,2024-07-18 22:00:00,04h 34m,2024-07-18 02:34:00,3.2,300,22 Seats available
+Udaipur to Pali (Rajasthan),Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 22:15:00,04h 45m,2024-07-18 03:00:00,3.8,350,"35 Seats available
+6 Single"
+Udaipur to Pali (Rajasthan),Jain Travels Regd Udaipur,A/C Sleeper (2+1),2024-07-18 17:45:00,04h 10m,2024-07-18 21:55:00,2.4,600,"34 Seats available
+22 Window"
+Sikar to Bikaner,RSRTC - 189225,Super Luxury Volvo AC Seater Pushback 2+2,2024-07-18 19:10:00,03h 50m,2024-07-18 23:00:00,3.2,421,"33 Seats available
+17 Window"
+Sikar to Bikaner,RATHORE TRAVELS AGENCY,A/C Semi Sleeper (2+2),2024-07-18 15:30:00,03h 20m,2024-07-18 18:50:00,4.9,450,24 Seats available
+Sikar to Bikaner,Milan Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 16:20:00,03h 55m,2024-07-18 20:15:00,4.6,714,"12 Seats available
+2 Single"
+Sikar to Bikaner,Milan Travels,A/C Seater / Sleeper (2+1),2024-07-18 17:20:00,03h 25m,2024-07-18 20:45:00,4.6,619,"12 Seats available
+4 Window"
+Sikar to Bikaner,Milan Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:01:00,03h 29m,2024-07-18 22:30:00,4.0,615,"17 Seats available
+1 Single"
+Sikar to Bikaner,Milan Travels,A/C Seater / Sleeper (2+1),2024-07-18 20:10:00,03h 15m,2024-07-18 23:25:00,4.5,523,"22 Seats available
+1 Single"
+Sikar to Bikaner,Shree karni Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:45:00,05h 10m,2024-07-18 03:55:00,4.2,381,"40 Seats available
+12 Single"
+Sikar to Bikaner,Shree karni Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 23:30:00,04h 10m,2024-07-18 03:40:00,3.2,350,"42 Seats available
+25 Window"
+Sikar to Bikaner,Amar Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,04h 30m,2024-07-18 04:00:00,3.5,429,43 Seats available
+Sikar to Bikaner,Amar Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:35:00,04h 30m,2024-07-18 04:05:00,3.5,300,43 Seats available
+Jaipur (Rajasthan) to Bharatpur,Maharaja Travels,A/C Seater / Sleeper (2+1),2024-07-18 15:30:00,04h 25m,2024-07-18 19:55:00,3.0,1286,"42 Seats available
+6 Single"
+Jaipur (Rajasthan) to Bharatpur,Panwar Travels,A/C Seater / Sleeper (2+1),2024-07-18 15:30:00,03h 20m,2024-07-18 18:50:00,4.1,546,"4 Seats available
+2 Window"
+Jaipur (Rajasthan) to Bharatpur,Deepak Transport Company,AC Seater (2+2),2024-07-18 15:30:00,02h 10m,2024-07-18 17:40:00,3.1,740,14 Seats available
+Jaipur (Rajasthan) to Bharatpur,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 15:40:00,03h 20m,2024-07-18 19:00:00,4.8,450,"6 Seats available
+2 Single"
+Jaipur (Rajasthan) to Bharatpur,Sethi Yatra Company,A/C Seater / Sleeper (2+1),2024-07-18 15:45:00,02h 45m,2024-07-18 18:30:00,3.9,648,"7 Seats available
+4 Window"
+Jaipur (Rajasthan) to Bharatpur,Shri mahavir tour and travels,AC Sleeper (2+1),2024-07-18 17:15:00,04h 20m,2024-07-18 21:35:00,4.1,1200,"31 Seats available
+9 Single"
+Jaipur (Rajasthan) to Bharatpur,GODARA TRAVELS,AC Sleeper (2+1),2024-07-18 17:55:00,04h 00m,2024-07-18 21:55:00,3.3,1299,36 Seats available
+Jaipur (Rajasthan) to Bharatpur,Sethi Yatra Company,A/C Seater/Sleeper (2+1),2024-07-18 18:00:00,02h 50m,2024-07-18 20:50:00,3.9,833,"22 Seats available
+6 Single"
+Jaipur (Rajasthan) to Bharatpur,Shree Raj Akanshi travels,A/C Sleeper (2+1),2024-07-18 18:00:00,03h 40m,2024-07-18 21:40:00,3.8,2127,"34 Seats available
+20 Window"
+Jaipur (Rajasthan) to Bharatpur,Metro Travels,A/C Sleeper (2+1),2024-07-18 18:00:00,04h 45m,2024-07-18 22:45:00,New,1017,36 Seats available
+Jaipur (Rajasthan) to Bharatpur,GK Travels,A/C Sleeper (2+1),2024-07-18 18:00:00,03h 45m,2024-07-18 21:45:00,3.6,1799,"26 Seats available
+5 Single"
+Jaipur (Rajasthan) to Bharatpur,Jai Shrinath Travels,A/C Seater / Sleeper (2+1),2024-07-18 18:30:00,03h 30m,2024-07-18 22:00:00,4.3,999,36 Seats available
+Jaipur (Rajasthan) to Bharatpur,GODARA TRAVELS,A/C Seater / Sleeper (2+1),2024-07-18 18:40:00,03h 45m,2024-07-18 22:25:00,3.3,999,"34 Seats available
+5 Single"
+Jaipur (Rajasthan) to Bharatpur,NueGo,Electric A/C Seater (2+2),2024-07-18 19:00:00,04h 15m,2024-07-18 23:15:00,4.3,528,11 Seats available
+Jaipur (Rajasthan) to Bharatpur,Tiwari Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:15:00,04h 00m,2024-07-18 23:15:00,3.5,4000,28 Seats available
+Kishangarh to Jodhpur,Jain travels regd,NON AC Seater / Sleeper 2+1,2024-07-18 23:50:00,05h 10m,2024-07-18 05:00:00,2.3,350,"36 Seats available
+5 Single"
+Kishangarh to Jodhpur,Jakhar Travels,A/C Sleeper (2+1),2024-07-18 23:15:00,04h 35m,2024-07-18 03:50:00,3.8,600,"11 Seats available
+1 Single"
+Kishangarh to Jodhpur,Swagat Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,05h 20m,2024-07-18 03:20:00,3.4,400,"41 Seats available
+12 Single"
+Kishangarh to Jodhpur,Jakhar Travels And Cargo,A/C Sleeper (2+1),2024-07-18 23:00:00,04h 40m,2024-07-18 03:40:00,3.4,600,"29 Seats available
+9 Single"
+Kishangarh to Jodhpur,Shree Ganesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,05h 05m,2024-07-18 03:05:00,3.2,400,"38 Seats available
+5 Single"
+Kishangarh to Jodhpur,Kalpana Travels Pvt. Ltd.,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,04h 30m,2024-07-18 03:00:00,2.8,500,"40 Seats available
+6 Single"
+Kishangarh to Jodhpur,Jain Shiv Shankar Travels,A/C Seater/Sleeper (2+1),2024-07-18 16:00:00,04h 45m,2024-07-18 20:45:00,2.6,650,"34 Seats available
+5 Single"
+Kishangarh to Jodhpur,Pooja Travels,A/C Sleeper (2+1),2024-07-18 19:15:00,06h 00m,2024-07-18 01:15:00,2.6,600,32 Seats available
+Kishangarh to Jodhpur,R.S.Sodha Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:15:00,03h 55m,2024-07-18 03:10:00,3.6,600,"31 Seats available
+8 Single"
+Kishangarh to Jodhpur,Jakhar Travels And Cargo,A/C Seater / Sleeper (2+1),2024-07-18 22:40:00,05h 10m,2024-07-18 03:50:00,3.4,450,"40 Seats available
+12 Single"
+Kishangarh to Jodhpur,Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,04h 45m,2024-07-18 02:30:00,3.4,314,"50 Seats available
+6 Single"
+Kishangarh to Jodhpur,Jakhar Travels And Cargo,A/C Seater / Sleeper (2+1),2024-07-18 23:30:00,04h 25m,2024-07-18 03:55:00,3.4,599,"40 Seats available
+12 Single"
+Kishangarh to Jodhpur,Chouhan travels and Cargo,A/C Seater / Sleeper (2+1),2024-07-18 22:15:00,05h 15m,2024-07-18 03:30:00,3.2,600,"42 Seats available
+27 Window"
+Kishangarh to Jodhpur,Shree Ganesh Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:00:00,04h 30m,2024-07-18 01:30:00,3.2,450,"40 Seats available
+12 Single"
+Kishangarh to Jodhpur,Bhagwati Travels and Tours,A/C Seater/Sleeper (2+1),2024-07-18 20:10:00,04h 25m,2024-07-18 00:35:00,3.2,400,"28 Seats available
+4 Single"
+Kishangarh to Jodhpur,Gorsiya Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:45:00,04h 15m,2024-07-18 02:00:00,2.9,600,"38 Seats available
+10 Single"
+Jaipur (Rajasthan) to Bhilwara,Shrinath® Travel Agency Pvt. Ltd.,Volvo Multi Axle B9R A/C Sleeper (2+1),2024-07-18 17:30:00,04h 50m,2024-07-18 22:20:00,4.3,370,"24 Seats available
+6 Single"
+Jaipur (Rajasthan) to Bhilwara,Neeraj travels,A/C Seater / Sleeper (2+1),2024-07-18 23:20:00,05h 05m,2024-07-18 04:25:00,4.0,500,"17 Seats available
+1 Single"
+Jaipur (Rajasthan) to Bhilwara,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 20:15:00,05h 00m,2024-07-18 01:15:00,4.5,499,"11 Seats available
+4 Window"
+Jaipur (Rajasthan) to Bhilwara,Sagwan Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,05h 19m,2024-07-18 03:19:00,3.6,380,"31 Seats available
+2 Single"
+Jaipur (Rajasthan) to Bhilwara,Sagwan Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 22:30:00,05h 40m,2024-07-18 04:10:00,3.6,475,"24 Seats available
+1 Single"
+Jaipur (Rajasthan) to Bhilwara,Raj travels Jhunjhunu,A/C Seater / Sleeper (2+1),2024-07-18 23:15:00,05h 25m,2024-07-18 04:40:00,1.0,475,"32 Seats available
+19 Window"
+Jaipur (Rajasthan) to Bhilwara,Kalpana Travels Pvt. Ltd.,NON AC Seater / Sleeper 2+1,2024-07-18 22:30:00,05h 30m,2024-07-18 04:00:00,2.2,350,"22 Seats available
+15 Window"
+Jaipur (Rajasthan) to Bhilwara,Ashok Travels Mandsaur Group,NON A/C Sleeper (2+1),2024-07-18 23:30:00,02h 45m,2024-07-18 02:15:00,1.0,500,"31 Seats available
+9 Single"
+Jaipur (Rajasthan) to Bhilwara,Shrinath® Travel Agency Pvt. Ltd.,Volvo Multi Axle B9R A/C Sleeper (2+1),2024-07-18 23:45:00,03h 45m,2024-07-18 03:30:00,4.1,600,"23 Seats available
+7 Single"
+Jaipur (Rajasthan) to Bhilwara,Shrinath® Travel Agency Pvt. Ltd.,Bharat Benz A/C Sleeper (2+1),2024-07-18 16:00:00,06h 20m,2024-07-18 22:20:00,4.1,648,"18 Seats available
+9 Window"
+Jaipur (Rajasthan) to Bhilwara,Humsafar Travels,A/C Seater / Sleeper (2+1),2024-07-18 16:00:00,05h 30m,2024-07-18 21:30:00,4.0,900,19 Seats available
+Jaipur (Rajasthan) to Bhilwara,B R Travels,AC Sleeper (2+1),2024-07-18 22:25:00,03h 40m,2024-07-18 02:05:00,3.9,3499,"36 Seats available
+24 Window"
+Jaipur (Rajasthan) to Bhilwara,Laxmi Shatabdi Travels,NON A/C Sleeper (2+1),2024-07-18 19:30:00,04h 00m,2024-07-18 23:30:00,3.5,700,"12 Seats available
+2 Single"
+Jaipur (Rajasthan) to Bhilwara,Laxmi Shatabdi Travels,NON AC Seater / Sleeper 2+1,2024-07-18 21:30:00,04h 30m,2024-07-18 02:00:00,3.5,500,"40 Seats available
+12 Single"
+Jaipur (Rajasthan) to Bhilwara,B.R. Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:25:00,05h 00m,2024-07-18 03:25:00,New,800,38 Seats available
+Jaipur (Rajasthan) to Bhilwara,B.R. Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:01:00,03h 30m,2024-07-18 01:31:00,New,1905,38 Seats available
+Jaipur (Rajasthan) to Bhilwara,Ashok Travels Mandsaur Group,Volvo 9600 Multi-Axle A/C Sleeper (2+1),2024-07-18 23:50:00,04h 25m,2024-07-18 04:15:00,4.3,810,"5 Seats available
+2 Window"
+Jaipur (Rajasthan) to Bhilwara,Gujarat Travels,Bharat Benz A/C Sleeper (2+1),2024-07-18 17:30:00,06h 00m,2024-07-18 23:30:00,3.4,740,"19 Seats available
+6 Single"
+Jaipur (Rajasthan) to Bhilwara,Goyal Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:30:00,04h 45m,2024-07-18 00:15:00,3.3,500,"11 Seats available
+1 Single"
+Jaipur (Rajasthan) to Bhilwara,Goyal Travels,A/C Seater / Sleeper (2+1),2024-07-18 20:00:00,05h 00m,2024-07-18 01:00:00,3.3,450,"18 Seats available
+2 Single"
+Kota(Rajasthan) to Udaipur,Paras Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,06h 30m,2024-07-18 05:00:00,4.0,352,"5 Seats available
+2 Window"
+Kota(Rajasthan) to Udaipur,Jai Shrinath Ji Ki ® Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 22:00:00,07h 00m,2024-07-18 05:00:00,3.8,350,"27 Seats available
+6 Single"
+Kota(Rajasthan) to Udaipur,Jakhar Travels,NON A/C Seater/ Sleeper (2+1),2024-07-18 22:00:00,07h 00m,2024-07-18 05:00:00,3.5,350,"22 Seats available
+2 Single"
+Kota(Rajasthan) to Udaipur,AdNavrang Travels,A/C Seater / Sleeper (2+1),2024-07-18 20:15:00,05h 25m,2024-07-18 01:40:00,3.9,324,"28 Seats available
+2 Single"
+Kota(Rajasthan) to Udaipur,M R Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:50:00,06h 25m,2024-07-18 05:15:00,3.0,400,"17 Seats available
+8 Window"
+Kota(Rajasthan) to Udaipur,Shre Ganesh Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:00:00,04h 30m,2024-07-18 22:30:00,2.9,500,"17 Seats available
+7 Window"
+Kota(Rajasthan) to Udaipur,Jakhar Travels,A/C Seater / Sleeper (2+1),2024-07-18 17:15:00,05h 05m,2024-07-18 22:20:00,2.2,476,"13 Seats available
+2 Single"
+Kota(Rajasthan) to Udaipur,Babu Travels,Non A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,06h 45m,2024-07-18 05:15:00,3.5,350,"31 Seats available
+4 Single"
+Kota(Rajasthan) to Udaipur,Radhey Travels,NON AC Seater / Sleeper 2+1,2024-07-18 22:45:00,07h 15m,2024-07-18 06:00:00,3.2,350,23 Seats available
+Kota(Rajasthan) to Udaipur,Babu Travels,A/C Sleeper (2+1),2024-07-18 20:30:00,05h 15m,2024-07-18 01:45:00,2.5,649,"14 Seats available
+1 Single"
+Kota(Rajasthan) to Udaipur,Jai Shrinath Ji Ki ® Travels,NON AC Seater / Sleeper 2+1,2024-07-18 20:45:00,04h 45m,2024-07-18 01:30:00,2.2,500,"20 Seats available
+3 Single"
+Kota(Rajasthan) to Udaipur,Navrang Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,06h 30m,2024-07-18 05:00:00,1.4,369,"34 Seats available
+9 Single"
+Kota(Rajasthan) to Udaipur,Siddhivinayak Travels,A/C Seater / Sleeper (2+1),2024-07-18 16:35:00,05h 45m,2024-07-18 22:20:00,1.6,477,"6 Seats available
+3 Window"
+Kota(Rajasthan) to Udaipur,Samreen Travels,AC Sleeper (2+1),2024-07-18 21:00:00,05h 00m,2024-07-18 02:00:00,1.4,800,"9 Seats available
+1 Single"
+Kota(Rajasthan) to Udaipur,Shree Laxmi Yatra,NON A/C Sleeper (2+1),2024-07-18 20:30:00,06h 00m,2024-07-18 02:30:00,2.7,590,"19 Seats available
+7 Single"
+Jaipur (Rajasthan) to Pilani,Garhwal Travels,A/C Seater / Sleeper (2+1),2024-07-18 16:30:00,05h 50m,2024-07-18 22:20:00,3.4,462,"38 Seats available
+10 Single"
+Jaipur (Rajasthan) to Pilani,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 17:30:00,04h 40m,2024-07-18 22:10:00,3.3,370,"38 Seats available
+5 Single"
+Jaipur (Rajasthan) to Pilani,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:10:00,05h 00m,2024-07-18 23:10:00,3.5,415,"24 Seats available
+12 Window"
+Jaipur (Rajasthan) to Pilani,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 18:30:00,05h 20m,2024-07-18 23:50:00,3.3,278,"30 Seats available
+4 Single"
+Jaipur (Rajasthan) to Pilani,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:30:00,04h 25m,2024-07-18 23:55:00,4.6,323,25 Seats available
+Jaipur (Rajasthan) to Pilani,R.K Jakhar Travels,A/C Seater / Sleeper (2+1),2024-07-18 21:25:00,05h 05m,2024-07-18 02:30:00,4.1,300,"42 Seats available
+27 Window"
+Jaipur (Rajasthan) to Pilani,Devraj Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 23:59:00,06h 09m,2024-07-18 06:08:00,4.0,350,"33 Seats available
+4 Single"
+Jaipur (Rajasthan) to Pilani,Amit Travels,Non AC Seater (2+3),2024-07-18 15:40:00,05h 40m,2024-07-18 21:20:00,2.1,299,"55 Seats available
+22 Window"
+Jaipur (Rajasthan) to Pilani,Raj travels Jhunjhunu,A/C Seater / Sleeper (2+1),2024-07-18 18:10:00,04h 20m,2024-07-18 22:30:00,2.7,370,"40 Seats available
+23 Window"
+Jaipur (Rajasthan) to Pilani,Amit Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:00:00,05h 00m,2024-07-18 04:00:00,1.9,349,"34 Seats available
+5 Single"
+Jaipur (Rajasthan) to Mathura,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 21:00:00,05h 30m,2024-07-18 02:30:00,3.0,499,"20 Seats available
+5 Single"
+Jaipur (Rajasthan) to Mathura,Rinku Travels,NON AC Seater / Sleeper 2+1,2024-07-18 19:00:00,05h 59m,2024-07-18 00:59:00,2.5,300,"39 Seats available
+24 Window"
+Jaipur (Rajasthan) to Mathura,janta shatabdi travels,Non A/C Seater / Sleeper (2+1),2024-07-18 19:15:00,04h 44m,2024-07-18 23:59:00,1.1,416,"41 Seats available
+5 Single"
+Jaipur (Rajasthan) to Mathura,Rinku Travels,NON AC Seater / Sleeper 2+1,2024-07-18 20:00:00,05h 50m,2024-07-18 01:50:00,2.5,300,"38 Seats available
+4 Single"
+Bikaner to Sikar,New Deep Travels,Volvo Multi-Axle I-Shift A/C Semi Sleeper (2+2),2024-07-18 15:30:00,03h 10m,2024-07-18 18:40:00,4.5,666.67,"23 Seats available
+9 Window"
+Bikaner to Sikar,RATHORE TRAVELS AGENCY,Volvo 9600 A/C Sleeper (2+1),2024-07-18 15:35:00,02h 17m,2024-07-18 17:52:00,3.5,750,"36 Seats available
+12 Single"
+Bikaner to Sikar,Maharaja Travels,A/C Sleeper (2+1),2024-07-18 16:30:00,04h 15m,2024-07-18 20:45:00,3.6,429,"23 Seats available
+5 Single"
+Bikaner to Sikar,Milan Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 17:00:00,03h 30m,2024-07-18 20:30:00,4.4,476,"23 Seats available
+12 Window"
+Bikaner to Sikar,Neelam Travels,A/C Seater / Sleeper (2+1),2024-07-18 18:30:00,04h 30m,2024-07-18 23:00:00,3.3,400,"23 Seats available
+1 Single"
+Bikaner to Sikar,Milan Travels,Bharat Benz A/C Seater /Sleeper (2+1),2024-07-18 19:15:00,03h 15m,2024-07-18 22:30:00,4.6,476,"31 Seats available
+16 Window"
+Bikaner to Sikar,Maharaja Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:30:00,03h 50m,2024-07-18 23:20:00,4.0,333,"31 Seats available
+3 Single"
+Bikaner to Sikar,Nandu V.K. Travels,A/C Seater / Sleeper (2+1),2024-07-18 19:30:00,04h 15m,2024-07-18 23:45:00,3.2,800,"30 Seats available
+10 Single"
+Bikaner to Sikar,Salasar Travels,A/C Sleeper (2+1),2024-07-18 22:00:00,04h 00m,2024-07-18 02:00:00,3.1,484,"30 Seats available
+10 Single"
+Bikaner to Sikar,Milan Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,04h 00m,2024-07-18 02:30:00,4.1,476,"26 Seats available
+7 Single"
+Bikaner to Sikar,RATHORE TRAVELS AGENCY,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,04h 29m,2024-07-18 02:59:00,3.5,350,"34 Seats available
+10 Single"
+Bikaner to Sikar,Maharaja Travels,A/C Seater / Sleeper (2+1),2024-07-18 22:30:00,04h 15m,2024-07-18 02:45:00,3.1,333,"33 Seats available
+3 Single"
+Bikaner to Sikar,Maharaja Travels,NON AC Seater / Sleeper 2+1,2024-07-18 22:45:00,04h 15m,2024-07-18 03:00:00,3.1,280,"36 Seats available
+5 Single"
+Bikaner to Sikar,RATHORE TRAVELS AGENCY,Volvo 9600 A/C Sleeper (2+1),2024-07-18 23:00:00,04h 15m,2024-07-18 03:15:00,3.5,750,"24 Seats available
+6 Single"
+Bikaner to Sikar,Suman Supreme Travels,A/C Seater / Sleeper (2+1),2024-07-18 23:00:00,04h 25m,2024-07-18 03:25:00,3.8,350,"44 Seats available
+6 Single"
